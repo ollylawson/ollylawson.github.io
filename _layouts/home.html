@@ -2,33 +2,38 @@
 layout: default
 title: Home
 ---
-<div class="welcome">
-  <h1>Welcome to my personal website</h1>
-  <!-- avatar -->
-  <p>description of website...</p>
+<div class="homepage-section">
+  <div class="welcome">
+    <h1>Welcome to my personal website</h1>
+    <!-- avatar -->
+    <p>description of website...</p>
+  </div>
 </div>
 
-<div class="recent-news">
-  <div class="book-purchase">
-    <h1>BOOK LAUNCH</h1>
-    <h2>recently published book on afghanistan... you can purchase it from amazon here.</h2>
-  </div>
-  <div class="book-synopsis">
-    <p>this is a synposis of the book</p>
+<div class="homepage-section">
+  <div class="recent-news">
+    <div class="book-purchase">
+      <h1>BOOK LAUNCH</h1>
+      <h2>recently published book on afghanistan... you can purchase it from amazon here.</h2>
+    </div>
+    <div class="book-synopsis">
+      <p>this is a synposis of the book</p>
+    </div>
   </div>
 </div>
 
 
 {% for post in site.tags.recent %}
-<div class='recent-article'>
-  <<h1>Recent Article</h1>
-  <article>
-    <a href="{{ site.github.url }}{{ post.url }}">
-      <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-        <h2><span>{{ post.title }}</span></h2>
-      </div>
-    </a>
-  </article>
+<div class="homepage-section">
+  <div class="recent-article">
+    <h1>Recent Article</h1>
+    <article>
+      <a href="{{ site.github.url }}{{ post.url }}">
+        <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+          <h2><span>{{ post.title }}</span></h2>
+        </div>
+      </a>
+    </article>
+  </div>
 </div>
-
 {% endfor %}
