@@ -2,7 +2,11 @@
 layout: default
 title: Home
 ---
-
+<div class="welcome">
+  <h1>Welcome to my personal website</h1>
+  <!-- avatar -->
+  <p>description of website...</p>
+</div>
 
 <div class="recent-news">
   <div class="book-purchase">
@@ -14,8 +18,10 @@ title: Home
   </div>
 </div>
 
+
 {% for post in site.tags.recent %}
 <div class='recent-article'>
+  <<h1>Recent Article</h1>
   <article>
     <a href="{{ site.github.url }}{{ post.url }}">
       <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
