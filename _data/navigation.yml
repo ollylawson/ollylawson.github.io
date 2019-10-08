@@ -1,9 +1,19 @@
-menu:
-- {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Projects', folder: 'pages', file: 'projects.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
-- {name: 'Writings', folder: 'pages', file: 'writings.html'}
+- title: About
+  folder: pages
+  url:  /about/
+- title: Projects
+  folder: pages
+  url:  /about/
+- title: Contact
+  folder: pages
+  url:  /contact/
+- title: Writings
+  folder: pages
+  url:  /writings/
   sublinks:
-    - {name: 'Poetry', folder: 'pages', file: 'poetry.html'}
-    - {name: 'Articles', folder: 'pages', file: 'articles.html'}
-    - {name: 'Short Stories', folder: 'pages', file: 'shortstories.html'}
+    - title: Poetry
+      url: /poetry/
+    - title: Articles
+      url: /articles/
+    - title: Short Stories
+      url: /shortstories/
