@@ -6,14 +6,16 @@
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>
     {% endfor %}
-              <div class="writings-dropdown">
-                <button class="dropbtn"><i class="fa fa-bars" aria-hidden="true"></i></button>
-                  <div class="dropdown-content">
-                    {% for item in site.data.settings.writings-menu %}
-                      <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="writings-menu-link">{{ item.name }}</a>
-                    {% endfor %}
-                  </div>
-              </div>
+    <div class="dropdown">
+    <button class="dropbtn">Writings
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Link 1</a>
+      <a href="#">Link 2</a>
+      <a href="#">Link 3</a>
+    </div>
+  </div>
 
     {% for item in site.data.settings.social %}
       <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
