@@ -12,8 +12,11 @@
   url:  /writings/
   sublinks:
     - title: Poetry
+      folder: pages
       url: /poetry/
     - title: Articles
+      folder: pages
       url: /articles/
     - title: Short Stories
+      folder: pages
       url: /shortstories/
