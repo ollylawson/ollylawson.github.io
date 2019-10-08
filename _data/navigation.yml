@@ -1,7 +1,7 @@
 menu:
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Projects', folder: 'pages', file: 'projects.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'
+- {name: 'Contact', folder: 'pages', file: 'contact.html'}
   sublinks:
     - {name: 'Poetry', folder: 'pages', file: 'poetry.html'}
     - {name: 'Articles', folder: 'pages', file: 'articles.html'}
