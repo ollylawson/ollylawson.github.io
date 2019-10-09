@@ -14,10 +14,10 @@ links:
   sublinks:
     - title: Poetry
       folder: pages
-      url: /poetry/
+      url: /writings/poetry/
     - title: Articles
       folder: pages
-      url: /articles/
+      url: /writings/articles/
     - title: Short Stories
       folder: pages
-      url: /shortstories/
+      url: /writings/shortstories/
