@@ -19,7 +19,7 @@
                       <li class="dropdown {{ class }}">
                           <a href="{{ site.github.url }}/{{ item.folder }}/{{ link.url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title}} <span class="caret"></span></a>
                           <ul class="dropdown-menu">
-                              {% for sublink in link.sublinks %
+                              {% for sublink in link.sublinks %}
                                       <li>
                                           <a href="{{ site.github.url }}/{{ item.folder }}/{{ sublink.url }}">{{ sublink.title }}</a>
                                       </li>
