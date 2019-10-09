@@ -1,20 +1,20 @@
 # Change 'comments' to true for Disqus comments
-#disqus:
-# comments: false
- #disqus_shortname: 'millennial-3'
+disqus:
+ comments: false
+ disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-#google-ID: ''
+google-ID: ''
 
 menu:
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Projects', folder: 'pages', file: 'projects.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 - {name: 'Writings', folder: 'pages', file: 'writings.html'}
-  sublinks:
-    - {name: 'Poetry', folder: 'pages', file: 'poetry.html'}
-    - {name: 'Articles', folder: 'pages', file: 'articles.html'}
-    - {name: 'Short Stories', folder: 'pages', file: 'shortstories.html'}
+sublinks:
+  - {name: 'Poetry', folder: 'pages', file: 'poetry.html'}
+  - {name: 'Articles', folder: 'pages', file: 'articles.html'}
+  - {name: 'Short Stories', folder: 'pages', file: 'shortstories.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
