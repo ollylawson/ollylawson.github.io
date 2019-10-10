@@ -10,10 +10,10 @@ menu:
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Projects', folder: 'pages', file: 'projects.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
-- {name: 'Writings', folder: 'pages', file: 'writings.html'}
+- {name: 'Articles', folder: 'pages', file: 'articles.html'}
+- {name: 'Creative', folder: 'pages', file:'creative.html'}
 sublinks:
   - {name: 'Poetry', folder: 'pages', file: 'poetry.html'}
-  - {name: 'Articles', folder: 'pages', file: 'articles.html'}
   - {name: 'Short Stories', folder: 'pages', file: 'shortstories.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

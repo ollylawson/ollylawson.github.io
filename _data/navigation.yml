@@ -8,16 +8,13 @@ links:
 - title: Contact
   folder: pages
   url:  /contact/
-- title: Writings
+- title: Articles
   folder: pages
-  url:  /writings/
+  url:  /Creative/
   sublinks:
     - title: Poetry
       folder: pages
       url: /writings/poetry/
-    - title: Articles
-      folder: pages
-      url: /writings/articles/
     - title: Short Stories
       folder: pages
       url: /writings/shortstories/
