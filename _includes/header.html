@@ -10,8 +10,8 @@
         <button class="creative-dropbtn">Dropdown
           <i class="fa fa-caret-down"></i>
             <div class="creative-dropdown-content">
-              {% for entry in item.sublinks %}
-                <li><a href="{{ entry.url }}">{{ entry.name }}</a></li>
+              {% for item in site.data.settings.sublinks %}
+                <li><a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}">{{ item.name }}</a></li>
               {% endfor %}
             </div>
       </button>
