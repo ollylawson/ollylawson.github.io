@@ -6,7 +6,7 @@
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a
       {% endfor %}
-      <div class="creative-dropdown menu-link">
+  <!---    <div class="creative-dropdown menu-link">
         <button class="creative-dropbtn">
           {% for item in site.data.settings.submenu %}
           <i class="fa fa-caret-down"></i>
@@ -17,7 +17,7 @@
             </div>
         </button>
         {% endfor %}
-      </div>
+      </div> -->
     {% for item in site.data.settings.social %}
       <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
     {% endfor %}
