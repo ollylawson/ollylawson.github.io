@@ -12,7 +12,7 @@ menu:
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 - {name: 'Articles', folder: 'pages', file: 'articles.html'}
 - {name: 'Creative', folder: 'pages', file: 'creative.html'}
-sublinks:
+ sublinks:
   - {name: 'Poetry', folder: 'pages', file: 'poetry.html'}
   - {name: 'Short Stories', folder: 'pages', file: 'shortstories.html'}
 
