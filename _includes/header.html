@@ -5,8 +5,9 @@
    <nav class="menu-list">
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>
+
         <div class="creative-dropdown menu-link">
-          <button class="creative-dropbtn">
+          <button class="creative-dropbtn">{% for item in site.data.settings.submenu%}
             <i class="fa fa-caret-down"></i>
               <div class="creative-dropdown-content">
                 {% for item in site.data.settings.sublinks %}
@@ -14,6 +15,7 @@
                 {% endfor %}
               </div>
           </button>
+          {% endfor %}
         </div>
       {% endfor %}
     {% for item in site.data.settings.social %}
