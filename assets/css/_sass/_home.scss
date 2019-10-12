@@ -3,6 +3,7 @@
   border-top-color: rgba(54, 54, 54, 0.8);
   padding-bottom: 20px;
   display: block;
+  overflow: auto;
 }
 
 .featured-posts {
@@ -89,17 +90,4 @@
     float: right;
   }
 
-}
-
-/* Responsive Conditional */
-@media (min-width: 1024px) {
-  .fixed-condition {
-    position: fixed;
-    max-width: 255px;
-  }
-}
-@media (max-width: 768px) {
-  div.col-sm-3 {
-    position: fixed;
-  }
 }
