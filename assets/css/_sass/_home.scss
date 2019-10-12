@@ -92,3 +92,16 @@
   }
 
 }
+
+/* Responsive Conditional */
+@media (min-width: 1024px) {
+  .fixed-condition {
+    position: fixed;
+    max-width: 255px;
+  }
+}
+@media (max-width: 768px) {
+  div.col-sm-3 {
+    position: fixed;
+  }
+}
