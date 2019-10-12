@@ -66,6 +66,8 @@
 /* welcome section */
 
 .welcome {
+  display: block;
+  
   .avatar {
   width: 30%;
   height: auto;
@@ -78,8 +80,10 @@
     padding: 10px;
   }
 
-  p{
+  p {
     width: 50%;
+    height: auto;
+    padding: 10px;
   }
 
 }
