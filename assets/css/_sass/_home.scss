@@ -66,6 +66,12 @@
 
 /* welcome section */
 
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 .welcome {
   display: block;
   margin: 20px;
