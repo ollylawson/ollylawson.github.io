@@ -9,7 +9,8 @@ google-ID: ''
 menu:
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Projects', folder: 'pages', file: 'projects.html'}
-- {name: 'Articles', folder: 'pages', file: 'articles.html'}
+- {name: 'Content', folder: 'pages', file: 'content.html'}
+- {name: 'Journalism', folder: 'pages', file: 'journalism.html'}
 - {name: 'Creative', folder: 'pages', file: 'creative.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 sublinks:
