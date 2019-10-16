@@ -5,16 +5,22 @@ links:
 - title: Projects
   folder: pages
   url:  /about/
+- title: Content
+  folder: pages
+  url:  /content/
+- title: Journalism
+  folder: pages
+  url:  /journalism/
+- title: Creative
+  folder: pages
+  url:  /creative/
 - title: Contact
   folder: pages
   url:  /contact/
-- title: Articles
-  folder: pages
-  url:  /Creative/
   sublinks:
-    - title: Poetry
-      folder: pages
-      url: /writings/poetry/
-    - title: Short Stories
-      folder: pages
-      url: /writings/shortstories/
+  - title: Poetry
+    folder: pages
+    url: /creative/poetry/
+  - title: Short Stories
+    folder: pages
+    url: /creative/shortstories/
