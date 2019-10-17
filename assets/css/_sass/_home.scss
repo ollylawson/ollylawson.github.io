@@ -84,18 +84,19 @@
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
+}
 
-  img {
+.book-purchase img {
   	width: 600px;
   	height: 400px;
   	margin: 10px;
   	transition: all 1s;
   }
 
-  img:hover {
+.book-purchase img:hover {
   	transform: scale(1.1);
   }
-}
+
 
 .book-purchase a {
   color: #176AA4;
