@@ -4,7 +4,7 @@ title: "Reflections on the Barossa"
 author: "Olly Lawson"
 categories: article
 tags: [recent]
-image: barossa.jpg alt: sunset in the barossa 
+image: barossa.jpg
 ---
 
 
@@ -44,3 +44,5 @@ It radiates in every wink of the eye, every smile its people affords; towards th
 It may be a small bubble of a place, but the sense of community here in the Barossa is not only a lesson to all those back home who too often entertain only the gripes of reality’s break with Utopia: it is also one of my greatest privileges to date that I have been allowed so willingly to become a part of it.
 
 So thank you, people of the Barossa, you’ll leave me with far more than just my blackened hands.
+
+alt: sunset in the barossa 
