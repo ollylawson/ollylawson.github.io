@@ -71,11 +71,13 @@
   text-align: center;
   display: flex;
   flex: 50%;
+  float: right;
 }
 
   .welcome-image .column {
   display: flex;
   flex: 50%;
+  float: left;
 }
 
 
@@ -88,8 +90,8 @@
   }
 
   .img-container img {
-    	width: 300px;
-    	height: 200px;
+    	width: 600px;
+    	height: 400px;
     	padding: 10px;
     	transition: all 1s;
     }
