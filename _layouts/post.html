@@ -23,8 +23,10 @@ layout: default
     {% else %}
       {{ site.author }}
     {% endif %}
+
+    {% include read_time.html %}
   </span>
- {% include read_time.html %}
+
 
   {% if page.image %}
     <div class="featured-image">
