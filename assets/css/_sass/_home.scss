@@ -85,14 +85,14 @@
 	flex-wrap: wrap;
 	justify-content: center;
 
-  .container img {
+  img {
   	width: 600px;
   	height: 400px;
   	margin: 10px;
   	transition: all 1s;
   }
 
-  .containter img:hover {
+  img:hover {
   	transform: scale(1.1);
   }
 }
