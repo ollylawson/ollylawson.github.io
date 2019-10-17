@@ -66,28 +66,28 @@
 
 /* welcome section */
 
-.homepage-section .welcome {
- section {
+.homepage-section .intro {
   display: -webkit-flex;
   display: flex;
+}
 
-    img {
-    -webkit-flex: 1;
-    -ms-flex: 1;
-    flex: 1;
-    padding: 20px;
-    }
-    
-   article {
-    -webkit-flex: 3;
-    -ms-flex: 3;
-    flex: 3;
-    padding: 10px;
-    background-color: #fff;
-    }
-  }
+.homepage-section .intro img {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  padding: 20px;
+}
+
+.homepage-section .intro article {
+  -webkit-flex: 3;
+  -ms-flex: 3;
+  flex: 3;
+  padding: 10px;
+  background-color: #fff;
+}
+
   @media (max-width: 600px) {
-    section {
+  .homepage-section .intro {
       -webkit-flex-direction: column;
       flex-direction: column;
     }
