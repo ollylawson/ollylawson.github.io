@@ -70,14 +70,12 @@
  .welcome-header .column {
   text-align: center;
   display: flex;
-  flex: 50%;
-  float: right;
+  position: right;
 }
 
   .welcome-image .column {
   display: flex;
-  flex: 50%;
-  float: left;
+  position: left;
 }
 
 
