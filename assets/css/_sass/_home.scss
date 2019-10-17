@@ -71,19 +71,17 @@
   float: right;
   padding: 10px;
   margin: auto;
+  justify-content: space-around;
 }
 
 .welcome-image {
   display: block;
   margin: 20px;
   overflow: auto;
-  display: flex;
-  flex-wrap: wrap;
   float: left;
+  justify-content: space-around;
 
   .avatar {
-  width: 33%;
-  height: auto;
   float: left;
   padding: 10px;
   }
