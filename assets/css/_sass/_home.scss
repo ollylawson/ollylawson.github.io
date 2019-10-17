@@ -71,14 +71,14 @@
   display: flex;
 }
 
-.homepage-section .intro img {
+.homepage-section .intro .avatar img {
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
   padding: 20px;
 }
 
-.homepage-section .intro article {
+.homepage-section .intro .welcome {
   -webkit-flex: 3;
   -ms-flex: 3;
   flex: 3;
