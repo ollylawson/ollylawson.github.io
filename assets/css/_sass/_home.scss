@@ -66,15 +66,16 @@
 
 /* welcome section */
 
-.welcome-header {
+.homepage-section .row
+ .welcome-header .column {
   text-align: center;
-  padding: 10px;
-  width: 50%
+  display: flex;
+  flex: 50%;
 }
 
-.welcome-image {
-  padding: 10px;
-  width: 50%;
+  .welcome-image .column {
+  display: flex;
+  flex: 50%;
 }
 
 
