@@ -66,19 +66,33 @@
 
 /* welcome section */
 
-.homepage-section .row
- .welcome-header .column {
-  text-align: center;
+.homepage-section .welcome {
+  section {
+  display: -webkit-flex;
   display: flex;
-  position: right;
+  }
+
+  img {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  padding: 20px;
+
+ }
+ .intro {
+  -webkit-flex: 3;
+  -ms-flex: 3;
+  flex: 3;
+  padding: 10px;
+  
 }
-
-  .welcome-image .column {
-  display: flex;
-  position: left;
+  @media (max-width: 600px) {
+    section {
+      -webkit-flex-direction: column;
+      flex-direction: column;
+    }
+  }
 }
-
-
 /* news section */
 .homepage-section .recent-news .book-purchase {
   .img-container {
