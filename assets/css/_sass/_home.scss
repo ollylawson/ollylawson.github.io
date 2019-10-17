@@ -68,6 +68,9 @@
 
 .welcome-header {
   text-align: center;
+  float: right;
+  padding: 10px;
+  margin: auto;
 }
 
 .welcome-image {
@@ -83,18 +86,6 @@
   height: auto;
   float: left;
   padding: 10px;
-  }
-
-  h1 {
-    text-align: center;
-    padding: 10px;
-  }
-
-  p {
-    width: auto;
-    height: auto;
-    padding: 10px;
-    float: right;
   }
 
 }
