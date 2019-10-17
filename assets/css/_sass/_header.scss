@@ -35,11 +35,12 @@
 }
 .menu-link {
   padding: 5px 10px;
-
-  a:hover {
-    color: #383838;
-  }
 }
+
+.menu-link a:hover {
+    color: #666666;
+}
+
 
 /*
   Responsiveness with a dropdown menu
@@ -88,12 +89,12 @@
       display: block;
   }
   .dropdown-content a:hover {
-    color: #383838
+    color: #666666;
   }
   .dropdown:hover .dropdown-content {
       display: block;
   }
   .dropdown:hover .dropbtn {
-      color: #383838;
+      color: #666666;
   }
 }
