@@ -70,12 +70,13 @@
   text-align: center;
 }
 
-.welcome-container {
+.welcome-image {
   display: block;
   margin: 20px;
   overflow: auto;
   display: flex;
   flex-wrap: wrap;
+  float: left;
 
   .avatar {
   width: 33%;
