@@ -4,7 +4,7 @@ title: "Reflections on the Barossa"
 author: "Olly Lawson"
 categories: article
 tags: [recent]
-image: barossa.jpg
+image: barossa.jpg alt: sunset in the barossa 
 ---
 
 
