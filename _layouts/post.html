@@ -23,8 +23,9 @@ layout: default
     {% else %}
       {{ site.author }}
     {% endif %}
-    {{ content | reading_time_as_i }}
   </span>
+
+{{ content | reading_time_as_i }}
 
   {% if page.image %}
     <div class="featured-image">
