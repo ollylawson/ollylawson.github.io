@@ -86,14 +86,14 @@
 	justify-content: center;
 }
 
-.book-purchase img {
+.img-container img {
   	width: 600px;
   	height: 400px;
   	margin: 10px;
   	transition: all 1s;
   }
 
-.book-purchase img:hover {
+.img-container img:hover {
   	transform: scale(1.1);
   }
 
@@ -104,4 +104,8 @@
 
 .book-purchase a:hover {
   color: #367CAE;
+}
+
+.footer {
+  color: #666666;
 }
