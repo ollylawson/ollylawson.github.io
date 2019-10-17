@@ -24,8 +24,7 @@ layout: default
       {{ site.author }}
     {% endif %}
   </span>
-
-{{ content | reading_time_as_i }}
+ {include read_time.html %}
 
   {% if page.image %}
     <div class="featured-image">
