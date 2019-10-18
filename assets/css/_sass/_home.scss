@@ -94,7 +94,13 @@
   -ms-flex: 1;
   flex: 1;
   margin: 20px;
+  margin-top: 25px;
+  padding: 10px;
   background-color: #eee;
+
+  h2 {
+    font-family: 'Caveat', cursive;
+  }
 }
 
 @media (max-width: 600px) {
