@@ -82,6 +82,8 @@
     border: 1px solid #ddd;
     border-radius: 4px;
     padding: 5px;
+    height: auto;
+    width: auto; 
   }
 }
 
@@ -96,7 +98,7 @@
 }
 
 @media (max-width: 600px) {
-  .homepage-section .intro .avatar {
+  .homepage-section .intro {
       -webkit-flex-direction: column;
       flex-direction: column;
     }
