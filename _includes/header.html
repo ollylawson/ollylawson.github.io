@@ -3,9 +3,22 @@
     <a href="{{ site.github.url }}/"> OL </a>
   </h3>
   <nav class="menu-list">
-    {% for item in site.data.settings.menu %}
+  <!--  {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>
-      {% endfor %}
+      {% endfor %} -->
+        <a href="#home" class="menu-link">About</a>
+        <a href="#home" class="menu-link">Projects</a>
+        <a href="#home" class="menu-link">Content</a>
+        <a href="#home" class="menu-link">Journalism</a>
+        <div class="dropdown">
+          <button class="dropbtn menu-link">Creative
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-content">
+            <a href="#">Poetry</a>
+            <a href="#">Short Stories</a>
+          </div>
+        </div>
     {% for item in site.data.settings.social %}
       <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
     {% endfor %}
@@ -24,3 +37,21 @@
     </div>
   </div>
 </header>
+
+
+
+<!-- <nav class="menu-list">
+  <a href="#home" class="menu-link">About</a>
+  <a href="#home" class="menu-link">Projects</a>
+  <a href="#home" class="menu-link">Content</a>
+  <a href="#home" class="menu-link">Journalism</a>
+  <div class="dropdown">
+    <button class="dropbtn menu-link">Creative
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Poetry</a>
+      <a href="#">Short Stories</a>
+    </div>
+  </div>
+</nav> -->
