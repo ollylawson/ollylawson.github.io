@@ -52,9 +52,10 @@
 .topnav {
   overflow: hidden;
   background-color: white;
+  text-align: left;
 }
 
-.topnav a, button{
+.topnav a {
   float: right;
   display: block;
   color: black;
