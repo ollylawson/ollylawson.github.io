@@ -18,14 +18,13 @@
             <a href="#">Poetry</a>
             <a href="#">Short Stories</a>
           </div>
+        </div>
           {% for item in site.data.settings.social %}
             <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
           {% endfor %}
-        </div>
-        <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 
   </nav>
-
+<a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 </header>
 
 <script>
