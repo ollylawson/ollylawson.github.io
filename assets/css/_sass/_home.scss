@@ -7,15 +7,15 @@
 
   h1 {
     padding: 10px;
+    text-align: center;
   }
 
-  h1:before{ content:'';
+  h1:before h1:after { content:'';
     height: 10px;
     width: 70px;
     border-radius: 5px;
   	margin: 0 auto 20px;
     display: block;
-    float: left;
     background: #07123A;
   }
 }
