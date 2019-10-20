@@ -10,11 +10,20 @@
     text-align: center;
   }
 
-  h1:before h1:after{ content:'';
+  h1:before { content:'';
     height: 10px;
     width: 70px;
     border-radius: 5px;
   	margin: 10px;
+    display: block;
+    position: center;
+    background: #07123A;
+  }
+  h1:after {
+    height: 10px;
+    width: 70px;
+    border-radius: 5px;
+    margin: 10px;
     display: block;
     position: center;
     background: #07123A;
