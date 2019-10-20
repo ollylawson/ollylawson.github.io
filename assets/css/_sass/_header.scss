@@ -28,7 +28,8 @@
   padding-left: 10px;
   float: left;
 }
-/* .menu-list {
+
+.menu-list {
   line-height: $header-thickness;
   float: right;
 
@@ -45,11 +46,11 @@
   line-height: $header-thickness;
   float: right;
   padding: 5px 10px;
-} */
+}
 
 
 
-.topnav {
+/* .topnav {
   overflow: hidden;
   background-color: white;
   text-align: left;
@@ -147,10 +148,9 @@
     width: 100%;
     text-align: left;
   }
-}
+} */
 
-/*
-  Responsiveness with a dropdown menu
+/*  Responsiveness with a dropdown menu */
 
 @media (min-width: $container-width) {
   .dropbtn {
