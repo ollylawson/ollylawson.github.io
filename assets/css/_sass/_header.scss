@@ -41,6 +41,11 @@
     color: #666666;
 }
 
+.dropdown .menu-link {
+  line-height: $header-thickness;
+  float: right;
+  padding: 5px 10px;
+}
 
 /*
   Responsiveness with a dropdown menu
