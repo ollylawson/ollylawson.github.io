@@ -5,15 +5,16 @@
   <nav class="menu-list">
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>
-    {% endfor %}
+
 
     <div class="creative-dropdown">
-    <button class="creative-dropbtn">Creative
+    <button class="creative-dropbtn menu-link">Creative
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="creative-dropdown-content">
-      <a href="#">Poetry</a>
-      <a href="#">short Stories</a>
+      {% for item in site.data.settings.submenu %}
+      <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>
+      {% endfor %}
     </div>
   </div>
 

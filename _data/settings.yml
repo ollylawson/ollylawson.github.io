@@ -12,6 +12,9 @@ menu:
 - {name: 'Content', folder: 'pages', file: 'content.html'}
 - {name: 'Journalism', folder: 'pages', file: 'journalism.html'}
 
+submenu:
+- {name: 'Poetry', folder: 'pages', file: 'poetry.html'}
+- {name: 'Short Stories', folder: 'pages', file: 'shortstories.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
