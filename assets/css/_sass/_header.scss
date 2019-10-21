@@ -46,6 +46,8 @@
 .creative-dropdown {
   float: right;
   overflow: hidden;
+  cursor: pointer;
+  font-size: 16px;
 }
 
 .creative-dropdown .creative-dropbtn {
@@ -73,6 +75,7 @@
 
 .creative-dropdown:hover .creative-dropdown-content {
   display: block;
+  cursor: pointer;
 }
 /*  Responsiveness with a dropdown menu */
 
