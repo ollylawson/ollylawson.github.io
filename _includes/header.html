@@ -12,7 +12,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="creative-dropdown-content">
-      {% for item in site.data.settings.submenu %}
+      {% for item in site.data.settings.sublinks %}
       <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>
       {% endfor %}
     </div>
