@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: poetry
 title: "Letter to a Friend"
 author: "Olly Lawson"
 categories: Poetry

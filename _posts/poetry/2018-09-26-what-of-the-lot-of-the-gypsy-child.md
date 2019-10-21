@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: poetry
 title: "What of the Lot of the Gypsy Child"
 author: "Olly Lawson"
 categories: Poetry

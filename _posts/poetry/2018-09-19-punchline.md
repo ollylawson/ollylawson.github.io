@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: poetry
 title: "Punchline"
 author: "Olly Lawson"
 categories: Poetry

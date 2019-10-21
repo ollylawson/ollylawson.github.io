@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: poetry
 title: "Farewell to London (apology coming soon)"
 author: "Olly Lawson"
 categories: Poetry
