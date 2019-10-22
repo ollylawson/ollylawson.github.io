@@ -32,6 +32,7 @@ Through the careless years of youth
 And into whatever apocalypse awaits.
 
 
+
 To say ‘betrayal’ assumes my innocence
 
 Which everyone knows is false.
@@ -55,6 +56,7 @@ Of expectation, compulsion and booze.
 A cocktail for mental implosion,
 
 Spilling grey through cracks of black.
+
 
 
 ‘But where do you go to now?’ they choke,
@@ -82,6 +84,7 @@ And scattered across the world,
 Like looted treasure from a pre-Christian time?
 
 
+
 Nature’s obligation is to move to propitious ground.
 
 We owe that to ourselves, to our species, our line,
@@ -105,6 +108,7 @@ Only stoicism protects the wound from worse.
 But pain breeds “strength” by killing off the weak.
 
 And maybe that’s us, without the miracle up our sleeves.
+
 
 
 It breaks more than it makes, this place,
