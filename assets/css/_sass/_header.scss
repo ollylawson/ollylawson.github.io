@@ -111,6 +111,7 @@
       font-size: 16px;
       border: none;
       cursor: pointer;
+      overflow: auto;
   }
   .dropdown {
       position: relative;
@@ -154,9 +155,9 @@
   cursor: pointer;
 }
 
-.sm-creative-dropbtn:hover, .sm-creative-dropbtn:focus {
+/* .sm-creative-dropbtn:hover, .sm-creative-dropbtn:focus {
   background-color: #2980B9;
-}
+} */
 
 .sm-creative-dropdown {
   position: relative;
