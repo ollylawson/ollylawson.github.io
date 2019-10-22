@@ -29,11 +29,9 @@
         <a href="{{ site.github.url }}/pages/{{ item.file }}" class="menu-link">{{ item.name }}</a>
       {% endfor %}
 
-      <div class="creative-dropdown">
-        <button class="creative-dropbtn menu-link">Creative
-          <i class="fa fa-caret-down"></i>
-        </button>
-        <div class="creative-dropdown-content">
+      <div class="sm-creative-dropdown">
+        <button onclick="myFunction()" class="sm-creative-dropbtn">Creative</button>
+        <div id="myDropdown" class="sm-creative-dropdown-content">
           <a href="{{ site.github.url }}/pages/poetry.html">Poetry</a>
           <a href="{{ site.github.url }}/pages/shortstories.html">Short Stories</a>
         </div>
@@ -49,20 +47,26 @@
 
 <script>
 
-
-
-function myFunction() {
-  var x = document.getElementById("myTopnav");
-  if (x.className === "topnav") {
-    x.className += " responsive";
-  } else {
-    x.className = "topnav";
+  /* When the user clicks on the button,
+  toggle between hiding and showing the dropdown content */
+  function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
   }
-}
+
+  // Close the dropdown if the user clicks outside of it
+  window.onclick = function(event) {
+    if (!event.target.matches('.sm-creative-dropbtn')) {
+      var dropdowns = document.getElementsByClassName("sm-creative-dropdown-content");
+      var i;
+      for (i = 0; i < dropdowns.length; i++) {
+        var openDropdown = dropdowns[i];
+        if (openDropdown.classList.contains('show')) {
+          openDropdown.classList.remove('show');
+        }
+      }
+    }
+  }
 </script>
-
-
- <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 
 
  <!--
