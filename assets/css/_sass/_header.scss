@@ -162,12 +162,12 @@
 .sm-creative-dropdown {
   position: relative;
   display: inline-block;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .sm-creative-dropdown-content {
   display: none;
   position: absolute;
-  background-color: #f1f1f1;
   min-width: 160px;
   overflow: auto;
   z-index: 1;
