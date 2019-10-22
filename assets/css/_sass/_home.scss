@@ -1,6 +1,6 @@
 .homepage-section {
   border-bottom: 1px solid;
-  border-bottom-color: rgba(54, 54, 54, 0.8);
+  border-bottom-color: rgba(7, 18, 58, 0.8);
   padding: 10px;
   padding-bottom: 20px;
   display: block;
@@ -8,7 +8,7 @@
 
   h1 {
     padding: 5px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
   }
 }
 
@@ -184,9 +184,9 @@
 .heading:after {
   content:'';
   height: 10px;
-  width: 50px;
+  width: 70px;
   border-radius: 5px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   display: block;
   background: #07123A;
 }
