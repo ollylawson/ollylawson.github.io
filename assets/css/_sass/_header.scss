@@ -45,7 +45,8 @@
 
 .social-menu-link {
   line-height: $header-thickness;
-  float: right;
+  position: absolute;
+  right: 0;
   padding: 5px 10px;
 }
 /* creative navbar */

@@ -8,7 +8,7 @@
 
   h1 {
     padding: 5px;
-    margin-bottom: 5px;
+    margin-bottom: 2px;
   }
 }
 
@@ -183,10 +183,10 @@
 
 .heading:after {
   content:'';
-  height: 10px;
-  width: 70px;
+  height: 8px;
+  width: 50px;
   border-radius: 5px;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   display: block;
   background: #07123A;
 }
