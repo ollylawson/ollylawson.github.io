@@ -62,19 +62,8 @@
   }
 </script>
 
+<!--
 
- <!--
-
- <a href="/pages/about.html" class="menu-link">About</a>
- <a href="#home" class="menu-link">Projects</a>
- <a href="#home" class="menu-link">Content</a>
- <a href="#home" class="menu-link">Journalism</a>
- <div class="dropdown">
-   <button class="dropbtn">Creative
-     <i class="fa fa-caret-down" aria-hidden="true"></i>
-   </button>
-   <div class="dropdown-content">
-     <a href="#">Poetry</a>
-     <a href="#">Short Stories</a>
-   </div>
- </div> -->
+ {% for item in site.data.settings.social %}
+   <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+ {% endfor %} -->
