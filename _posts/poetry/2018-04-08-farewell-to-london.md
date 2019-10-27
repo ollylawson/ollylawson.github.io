@@ -31,7 +31,7 @@ Through the careless years of youth
 
 And into whatever apocalypse awaits.
 
-
+<br>
 
 To say ‘betrayal’ assumes my innocence
 
@@ -57,7 +57,7 @@ A cocktail for mental implosion,
 
 Spilling grey through cracks of black.
 
-
+<br>
 
 ‘But where do you go to now?’ they choke,
 
@@ -83,7 +83,7 @@ And scattered across the world,
 
 Like looted treasure from a pre-Christian time?
 
-
+<br>
 
 Nature’s obligation is to move to propitious ground.
 
@@ -109,7 +109,7 @@ But pain breeds “strength” by killing off the weak.
 
 And maybe that’s us, without the miracle up our sleeves.
 
-
+<br>
 
 It breaks more than it makes, this place,
 

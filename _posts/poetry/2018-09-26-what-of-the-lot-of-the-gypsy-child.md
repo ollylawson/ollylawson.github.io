@@ -15,7 +15,7 @@ What of the lot of the Gypsy Child,
 
 “the child who fails to see”?
 
-
+<br>
 
 The Gypsy Child, he knows no clock,
 
@@ -25,7 +25,7 @@ for his only wish is to walk barefoot,
 
 and be naked without complaint.
 
-
+<br>
 
 The Gypsy Child will smile and wave
 
@@ -35,7 +35,7 @@ for the Gypsy Child is happy deaf,
 
 to whispers of the Trivial lie.
 
-
+<br>
 
 The Gypsy Child will climb the trees
 
@@ -45,7 +45,7 @@ of Nature’s poignant songbirds,
 
 though they sing of their Master’s fall.
 
-
+<br>
 
 The Gypsy Child will swim the seas,
 
@@ -55,7 +55,7 @@ for below him lies a desert,
 
 once the pearl of Shiva’s pride.
 
-
+<br>
 
 He’ll reach the shore and slump to shade
 
@@ -65,7 +65,7 @@ that the world he thought he ran freely in,
 
 was mere bounty to the Ultimate Thief.
 
-
+<br>
 
 But does he cry and mourn all night,
 
@@ -75,7 +75,7 @@ Not the Gypsy Child, the bare-foot one,
 
 for freedom is the source of light.
 
-
+<br>
 
 “What of the lot of the Gypsy Child?”
 
