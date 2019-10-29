@@ -3,9 +3,9 @@ title: Content
 layout: default
 ---
 {% for post in site.categories.content limit: 5 %}
-  <a href="{{ site.github.url }}{{ post.url }}">
     <div class="content-posts">
       <h2><span>{{ post.title }}</span></h2>
+      <h3><span> posted on {{ post.publisher }}</span><h3>
       <span class="post-date">
         {{ site.data.settings.post_date_prefix }}
         {% assign d = page.date | date: "%-d"  %}
@@ -19,7 +19,6 @@ layout: default
       </span>
       <a href="{{ post.link }}">{{ post.link }}</a>
     </div>
-  </a>
 {% endfor %}
 
 <!-- Pagination links -->
