@@ -62,7 +62,7 @@
   padding: 5px 10px;
   margin: 0px;
   font-size: 16px;
-  font-family:'Open Sans', sans-serif;
+  font-family: $body-font-family;
   cursor: pointer;
 }
 
@@ -155,7 +155,7 @@
   font-size: 16px;
   border: none;
   cursor: pointer;
-  font-family: 'Open Sans', sans-serif;
+  font-family: $body-font-family;
 }
 
 /* .sm-creative-dropbtn:hover, .sm-creative-dropbtn:focus {
