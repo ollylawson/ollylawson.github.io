@@ -17,23 +17,17 @@ layout: default
       {% when '3' or '23' %}{{ d }}rd
       {% else %}{{ d }}th{% endcase %},
     {{ page.date | date: "%Y" }}
-    by
-    {% if page.author %}
-      {{ page.author }}
+    <br>
+    {% capture read_time %}
+    {{ page.content | number_of_words | divided_by: 180 }}
+    {% endcapture %}
+    {% if read_time != '0' %}
+      {{ read_time }}
     {% else %}
-      {{ site.author }}
-    {% endif %}
+      1
+    {% endif %} min read
   </span>
-<span class="read-time">
-  {% capture read_time %}
-  {{ page.content | number_of_words | divided_by: 180 }}
-  {% endcapture %}
-  {% if read_time != '0' %}
-    {{ read_time }}
-  {% else %}
-    1
-  {% endif %} min read
-</span>
+
 
   {% if page.image %}
     <div class="featured-image">
