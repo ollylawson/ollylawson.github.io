@@ -4,7 +4,7 @@ layout: default
 ---
 {% for post in site.categories.content limit: 5 %}
   <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-posts">
+    <div class="content-posts">
       <h2><span>{{ post.title }}</span></h2>
       <span class="post-date">
         {{ site.data.settings.post_date_prefix }}
@@ -17,7 +17,7 @@ layout: default
           {% else %}{{ d }}th{% endcase %},
         {{ page.date | date: "%Y" }}
       </span>
-      <<a href="{{ post.link }}">{{ post.link }}</a>
+      <a href="{{ post.link }}">{{ post.link }}</a>
     </div>
   </a>
 {% endfor %}
