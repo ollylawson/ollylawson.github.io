@@ -3,12 +3,11 @@ layout: page
 title: Short Stories
 ---
 {% for post in site.categories.shortstories limit: 5 %}
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-posts">
+    <div class="short-story-post">
       <h2><span>{{ post.title }}</span></h2>
       {{ post.content | truncatewords: 50 }}
+      <a href="{{site.github.url }}{{ post.url }}"> READ MORE...</a>
     </div>
-  </a>
 {% endfor %}
 
 <!-- Pagination links -->
