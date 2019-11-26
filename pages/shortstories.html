@@ -4,8 +4,10 @@ title: Short Stories
 ---
 {% for post in site.categories.shortstories limit: 5 %}
   <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+    <div class="featured-posts">
       <h2><span>{{ post.title }}</span></h2>
+      {{ post.content | truncatewords: 50 }}
+       <a href="{{ post.url }}">Read more...</a>
     </div>
   </a>
 {% endfor %}
