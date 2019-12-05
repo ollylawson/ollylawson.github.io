@@ -10,11 +10,12 @@ title: Home
     <div class="welcome">
         <h1>Olly Lawson</h1>
         <p><i>Purveyor of fine stories; journalist, author, playwright, poet.</i> </p>
-          <br>
+          <h2>
           <br>
           {% for item in site.data.settings.social %}
           <a href="{{ item.link }}" class="social-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
           {% endfor %}
+          </h2>
     </div>
   </div>
 </div>
@@ -25,9 +26,8 @@ title: Home
       <div class="heading">
         <h1><b>Book Launch</b></h1>
       </div>
+      <div class="book-cover">
       <h2>Notes from the Roof of the World: Afghanistan's Wakhan Corridor and Beyond</h2>
-      <br>
-      <div class="book-image">
         <img src="assets/img/book-cover-page.jpg" alt="Afghanistan-book-cover">
       </div>
       <br>

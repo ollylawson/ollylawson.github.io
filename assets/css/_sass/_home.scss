@@ -164,9 +164,11 @@ p {
     color: #367CAE;
   }
 
-  .book-image {
+  .book-cover {
     display: flex;
     display: -webkit-flex;
+  	flex-wrap: wrap;
+    justify-content: space-around;
 
     img {
       width: 200px;
