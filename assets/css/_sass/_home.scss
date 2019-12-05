@@ -94,6 +94,10 @@ p {
     padding: 5px;
     height: auto;
     width: 100%;
+    transition: all 1s;
+  }
+  img:hover {
+    transform: scale(1.1);
   }
 }
 
@@ -180,6 +184,10 @@ p {
       width: 200px;
       height: 300px;
       float: right;
+      transition: all 1s;
+    }
+  img:hover {
+      transform: scale(1.1);
     }
   }
 
