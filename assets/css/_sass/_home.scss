@@ -163,27 +163,26 @@ p {
   a:hover {
     color: #367CAE;
   }
+}
 
-  .book-cover {
+.book-cover {
     display: flex;
     display: -webkit-flex;
   	flex-wrap: wrap;
     justify-content: space-around;
 
-    img {
+  img {
       width: 200px;
       height: 300px;
     }
   }
 
-  footer {
+footer {
     color: #666666;
     text-align: center;
     padding: 5px;
   }
 
-
-}
 
 
 /* recent article */
