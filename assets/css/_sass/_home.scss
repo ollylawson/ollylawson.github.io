@@ -94,10 +94,6 @@ p {
     padding: 5px;
     height: auto;
     width: 100%;
-    transition: all 1s;
-  }
-  img:hover {
-    transform: scale(1.05);
   }
 }
 
@@ -206,4 +202,9 @@ footer {
   margin-bottom: 30px;
   display: block;
   background: #07123A;
+}
+
+.recent-article a {
+  transform: scale(1.1);
+  transition: transform 6s cubic-bezier(0.25, 0.45, 0.45, 0.95);
 }
