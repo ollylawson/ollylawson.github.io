@@ -7,11 +7,11 @@ tags: []
 ---
 
 
-_Urgh __. _Qu__ é rápido pasa la vida!_
+_Urgh __. _Qué rápido pasa la vida!_
 
 Santo was snoring again last night. Not his fault, those collapsed sinus&#39; of his wheeze and whimper like a wounded animal. Want to help but then he never accepts any. Off he pops at the crack of dawn to god knows where, not even a backwards glance. Awfully attractive all those years ago mind, what with that flinty stoic stare. Now spend nights in decade-old sheets caked in residual sweat. How _does_ he sweat in this weather?
 
-_       That _puta_ of a crack in the window. Icy wind whipping exposed skin. Must get up. Off we go, quick potter outside. Another day slumped crippled, humpbacked over fat bloated bags of rice cakes- could be worse I suppose, could be one of those… Ah here they come now! Look! It&#39;s our delectable heroes. Shhh, can&#39;t let them know I&#39;m thinking in their tongue. One too many Pynchon&#39;s left lying around. My little secret…
+That _puta_ of a crack in the window. Icy wind whipping exposed skin. Must get up. Off we go, quick potter outside. Another day slumped crippled, humpbacked over fat bloated bags of rice cakes- could be worse I suppose, could be one of those… Ah here they come now! Look! It&#39;s our delectable heroes. Shhh, can&#39;t let them know I&#39;m thinking in their tongue. One too many Pynchon&#39;s left lying around. My little secret…
 
  Appearing over the faint orange mist that hovers over cracked Tupizan streets stroll three _amigos_. Junk ladled, bronze shouldered statue folk, limbs licked with ink, muscles rippling like flags in the chilly breeze, ready made for the pantheon.
 
