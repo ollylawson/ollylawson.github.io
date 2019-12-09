@@ -7,7 +7,7 @@ tags: []
 ---
 
 
-_Urgh __. _Qué rápido pasa la vida!_
+_Urgh. Qué rápido pasa la vida!_
 
 Santo was snoring again last night. Not his fault, those collapsed sinus&#39; of his wheeze and whimper like a wounded animal. Want to help but then he never accepts any. Off he pops at the crack of dawn to god knows where, not even a backwards glance. Awfully attractive all those years ago mind, what with that flinty stoic stare. Now spend nights in decade-old sheets caked in residual sweat. How _does_ he sweat in this weather?
 
