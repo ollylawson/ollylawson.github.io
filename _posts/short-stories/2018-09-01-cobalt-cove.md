@@ -6,8 +6,7 @@ categories: shortstories
 tags: []
 ---
 
-
-‘Why’s it called that Mummy?’ asked the little girl.
+	‘Why’s it called that Mummy?’ asked the little girl.
 	‘Why’s what called what darling?’
 	‘Cobalt Cove- it says it there on the surfboard.’
 	‘Ah so it does. And I’m not sure, maybe it’s because the water is that funny shade of blue. See.’ Mummy pointed out the great wide expanse of ocean before sighing to herself and lowering her arm again. Earlier that morning, back in the cosy B&B they were staying in, Evie had noticed she was wearing the same underwear two days running. Of course she’d seen the bloody water. She saw everything.
@@ -24,7 +23,7 @@ Mummy was thankful she’d left the rest of the sandwich on the dashboard. ‘No
 Evie looked suspicious before turning to peer down over the edge of the cliffs.
 ‘Don’t get too close darling.’
 ‘I bet it was those boys that named it Cobalt Cove.’
-Mummy followed her daughter’s gaze. A huddle of topless white torsos were gathered on the beach below. At the rise of a sudden gust, their boyish cackles could be heard echoing up through the air. ‘Come on,’ said Mummy, taking her daughter by the hand and leading her down the crudely cut stairs jutting out from the rockface.
+Mummy followed her daughter’s gaze. A huddle of topless white torsos were gathered on the beach below. At the rise of a sudden gust, their boyish cackles could be heard echoing up through the air. ‘Come on,’ said Mummy, taking her daughter by the hand and leading her down the crudely cut stairs jutting out from the rockface. 
 Down on the sand- half henna half hazel, divided by the line of the tide- an old man was bent over a portable stove. Steam moistened his weather-beaten features. His glasses were misty too. A small, hand-written sign advertised tea, coffee and biscuits. Mummy took a step towards it, but she felt a strain of resistance in her left-hand.
 ‘What now darling? Don’t you want a digestive? You can dunk it in the tea and everything.’
 ‘No thank you, I want to ask those boys why they named this place Cobalt Cove.’
@@ -35,25 +34,25 @@ Down on the sand- half henna half hazel, divided by the line of the tide- an old
 ‘They’re surfers, they’re probably just talking about the waves.’
 ‘I bet they’re talking about girls. I bet they’re saying mean things about them.’
 Another chorus of cackles cut through the air. Mummy looked up through her eyebrows at the boys. They were slapping each other on the back, leaving the pink imprint of their fingers to glow and fade across pale skin.
-‘I guess we’ll never know,’ said Mummy, breaking the chain of their hands to ruffle her wavy hair.
+‘I guess we’ll never know,’ said Mummy, breaking the chain of their hands to ruffle her wavy hair. 
 Satisfied that that was the end of that conversation, she continued on towards the Tea Man, waving at him as she went. He noticed her only after the third flail of her arm- and promptly wiped his glasses sheepishly on his fleece. A toothy smile accompanied his apology at having not seen her earlier.
 ‘And what can I get you ma’am?’
 ‘Oh well,’ said Mummy, rubbing her hands together like two sticks in search of fire, ‘I would absolutely love a cup of tea please, two teas actually, and a few digestives if you have them.’
 ‘Absolutely no problem ma’am- and would you like them both now or would you like me to pour you a fresh one when you’ve finished the first?’
-‘Why-‘ Mummy turned around. Evie was no longer by her side. Instead, she was a good sixty-yards away, marching up to the gaggle of surfers. Mummy watched as, first one, then two, then all seven or eight of them, sensed the presence of an incoming alien. They scattered to form a semi-circle.
+‘Why-‘ Mummy turned around. Evie was no longer by her side. Instead, she was a good sixty-yards away, marching up to the gaggle of surfers. Mummy watched as, first one, then two, then all seven or eight of them, sensed the presence of an incoming alien. They scattered to form a semi-circle. 
 ‘The young lady seems to know her own mind all right, if you don’t mind me saying.’
 ‘You have no idea.’
 ‘I just hope she lets them down gently! Too many of the ladies around here are a little reckless when it comes to those poor boys hearts.’
 Mummy didn’t know what to say to that. Besides, she had eyes only for her daughter. She watched as Evie put her hands on her hips and began what looked like a stern remonstration. The faces of the surfers straightened at once.
 ‘Here you are ma’am,’ said the old man, passing the tea over her shoulder. Mummy fumbled for a grip on the piping paper cup. ‘I’ll keep the second one warm until she’s finished with them. Not finished with them- you know what I…’
-The old man’s sentence faded in the wind and it was sometime before Evie finished her lecture. The surfers to a man maintained their sincerity throughout, and their wiry torsos were stiff with attentiveness. A few nods broke out at what looked like appropriate intervals. A couple even looked up briefly to the sky, searching for a thought. The tallest of the group then took it upon himself to speak first in reply. His brow furrowed as he spoke, and soon it was Evie that was nodding along to his words.
-Back and forth the replies then came, as a few more of the surfers mustered the courage to speak. Each time they would take a half-step towards Evie, as if supplicants to a monarch, before retreating back to their rigid, semi-circle formation.
-The tea was soon tepid and untouched, and still Evie had not finished. It was only when another gust of wind sent one of the surfboards shooting away over the sand that the spell seemed to break. One hurried after it, catching it just before it was snared by the snapping jaws of the sea. The others began to bow and a couple even shook Evie’s tiny blue hands.
-Mummy’s mouth was still hanging open as she watched her daughter skip back towards her, her wavy hair billowing behind her.
+The old man’s sentence faded in the wind and it was sometime before Evie finished her lecture. The surfers to a man maintained their sincerity throughout, and their wiry torsos were stiff with attentiveness. A few nods broke out at what looked like appropriate intervals. A couple even looked up briefly to the sky, searching for a thought. The tallest of the group then took it upon himself to speak first in reply. His brow furrowed as he spoke, and soon it was Evie that was nodding along to his words. 
+Back and forth the replies then came, as a few more of the surfers mustered the courage to speak. Each time they would take a half-step towards Evie, as if supplicants to a monarch, before retreating back to their rigid, semi-circle formation. 
+The tea was soon tepid and untouched, and still Evie had not finished. It was only when another gust of wind sent one of the surfboards shooting away over the sand that the spell seemed to break. One hurried after it, catching it just before it was snared by the snapping jaws of the sea. The others began to bow and a couple even shook Evie’s tiny blue hands. 
+Mummy’s mouth was still hanging open as she watched her daughter skip back towards her, her wavy hair billowing behind her. 
 ‘One tea please,’ said Evie, as she came within earshot of the old man. ‘And I would love a biscuit if you have any.’
 The old man roused himself from his own absent-mindedness and muttered something about ‘just a sec.’ Mummy meanwhile just stared at her daughter.
 Evie thanked the man and took a big slurp, wincing a little at its temperature. The two of them then turned in silence and headed back up the steps to the top of the cliff. Here they then retreated back to the comfort of the car.
-It was a good few minutes before either of them said anything.
+It was a good few minutes before either of them said anything. 
 ‘Mummy?’
 ‘Mmm?’
 ‘The heating- I asked you twice if we could put it on- it’s so chilly.’
@@ -78,10 +77,11 @@ She took a few moments to compose herself before continuing; ‘and so anyway, t
 	Evie reached forward and picked up the half-eaten jam sandwich and stuffed it in her mouth, just the same way Mummy had before they’d gotten out of the car in the first place. ‘Because,’ said Evie, through a thick mouthful that Mummy didn’t bother to comment on, ‘I don’t think they did name it after all.’
 	‘And why do you think that?’
 	‘Because they weren’t hard and cold at all. They were warm and soft, like Daddy used to be.’
-	‘Oh darling,’ whispered Mummy as she stared out at the greying horizon. She was thinking about the last time she’d been to that stretch of coastline. Twelve years ago with Daddy, before Daddy had been a Daddy and before Mummy had been a Mummy. They’d been happier times.
+	‘Oh darling,’ whispered Mummy as she stared out at the greying horizon. She was thinking about the last time she’d been to that stretch of coastline. Twelve years ago with Daddy, before Daddy had been a Daddy and before Mummy had been a Mummy. They’d been happier times. 
 A spurt of giggles suddenly came exploded from the passenger seat. Mummy whirled around. ‘What? What’s so funny you little rascal?’
 	‘It’s just funny that I was right,’ said Evie, that cheeky smile widening with every word.
 	‘Right about what exactly? You got the cobalt thing wrong.’
 	‘Yeah.’
 	‘Yeaaaah. So what’re exactly do you think you were right about young lady?’
 	‘They were talking about girls.’
+
