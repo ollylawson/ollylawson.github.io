@@ -181,16 +181,16 @@ p {
     padding: 10px;
   }
   img {
-      width: 200px;
-      height: 300px;
+      width: 250px;
+      height: 375px;
       float: right;
       transition: all 1s;
       margin-bottom: 20px;
       box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
     }
-  img:hover {
-      transform: scale(1.2);
-    }
+  /* img:hover {
+      transform: scale(1.1);
+    } */
   }
 
 footer {
