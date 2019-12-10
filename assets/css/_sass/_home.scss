@@ -189,9 +189,13 @@ p {
     display: -webkit-flex;
   	flex-wrap: wrap;
     justify-content: space-around;
+    border-left: 6px solid black;
+    height: 400px;
 
   h1 {
     text-shadow: 1px 1px 2px #eee;
+    border-right: 6px solid black;
+    height: 400px;
   }
 
   h3, h1 {
