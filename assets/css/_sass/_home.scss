@@ -161,6 +161,13 @@ p {
     text-align: center;
   }
 
+  .text {
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    padding: 16px 32px;
+  }
+
   .img-container:hover .book-image {
     opacity: 0.3;
   }
@@ -171,7 +178,7 @@ p {
 
   .img-container img:hover {
     transform: scale(1.1);
-    }
+  }
 
 
   h1 {
