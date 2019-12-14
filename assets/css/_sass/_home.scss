@@ -198,6 +198,7 @@ footer {
   }
 
 /*button*/
+.book-cover {
   $height: 2.8em;
   $width: 10em;
   $button-color: #EE3769;
@@ -215,7 +216,7 @@ footer {
     box-sizing: border-box;
   }
 
-  .amazon-button {
+  a {
     @include center;
     text-decoration: none;
     cursor: pointer;
