@@ -210,14 +210,14 @@ footer {
   @include center;
   text-decoration: none;
   cursor: pointer;
-  border: 1px solid $button-color;
+  border: 1px solid #EE3769;
   border-radius: 8px;
-  height:$height;
-  width:$width;
+  height:2.8em;
+  width:10em;
   padding: 0;
   outline: none;
   overflow: hidden;
-  color: $button-color;
+  color: #EE3769;
   transition: color 0.3s 0.1s ease-out;
   text-align: center;
   line-height: 250%;
@@ -227,10 +227,10 @@ footer {
     content:'';
     border-radius: 50%;
     display: block;
-    width: $width*2;
-    height: $width*2;
-    line-height: $width*2;
-    left: -$width/2;
+    width: 5.6em;
+    height: 5.6em;
+    line-height: 5.6em;
+    left: -1.4em;
     text-align: center;
     transition: box-shadow 0.5s ease-out;
     z-index: -1;
@@ -239,7 +239,7 @@ footer {
   &:hover{
     color: #fff;
     &::before{
-    box-shadow:inset 0 0 0 $width rgba($button-color,1);
+    box-shadow:inset 0 0 0 2.8em rgba(#EE3769,1);
       }
     }
   }
