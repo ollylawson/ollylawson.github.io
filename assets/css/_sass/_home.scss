@@ -197,6 +197,8 @@ footer {
     padding: 5px;
   }
 
+/*button*/
+.amazon-button {
   $height: 2.8em;
   $width: 10em;
   $button-color: #EE3769;
@@ -225,7 +227,7 @@ footer {
     font-family: 'Noto Sans', sans-serif;
   }
 
-  a {
+a {
     @include center;
     text-decoration: none;
     cursor: pointer;
@@ -262,6 +264,7 @@ footer {
       }
     }
   }
+}
 
 /* recent article */
 
