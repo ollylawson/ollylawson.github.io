@@ -199,6 +199,14 @@ footer {
 
 /*button*/
 .book-cover {
+
+  body{
+    height: 100%;
+    width: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
   $height: 2.8em;
   $width: 10em;
   $button-color: #EE3769;
