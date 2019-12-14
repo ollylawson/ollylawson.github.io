@@ -216,7 +216,7 @@ footer {
     box-sizing: border-box;
   }
 
-a {
+  a {
     @include center;
     text-decoration: none;
     cursor: pointer;
