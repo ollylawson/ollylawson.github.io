@@ -37,14 +37,15 @@
 }
 .menu-link {
   padding: 5px 10px;
+  text-decoration: none;
 }
 
 .menu-list a:hover {
-    color: #666666;
-    border-bottom: 1px solid;
-    transition: all 0.3 linear 0s;
-    border-width: 90%;
-    border-color: #666;
+  color: #666666
+}
+
+.menu-list a:active {
+  color: #666666;
 }
 
 
