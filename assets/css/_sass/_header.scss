@@ -38,10 +38,25 @@
 .menu-link {
   padding: 5px 10px;
 }
+.menu-link a {
+  display: inline-block;
+  text-decoration: none;
+}
 
+.menu-link a:after {
+  content: "";
+  display: block;
+  width: 0;
+  border-bottom: 1px solid;
+  margin: 0 auto;
+  transition:all 0.3s linear 0s
+}
 .menu-list a:hover {
     color: #666666;
-    text-decoration: underline;
+}
+
+.menu-link a:hover:after {
+  width: 90%;
 }
 
 .social-menu-link {
