@@ -54,11 +54,10 @@
 }
 .menu-list a:hover {
     color: #666666;
+    border-bottom: 1px solid;
+    transition: all 0.3 linear 0s;
 }
 
-.menu-link a:hover:after {
-  width: 90%;
-}
 
 .social-menu-link {
   line-height: $header-thickness;
