@@ -38,24 +38,13 @@
 .menu-link {
   padding: 5px 10px;
 }
-.menu-link a {
-  display: inline-block;
-  text-decoration: none;
-}
 
-.menu-link a:after {
-  content: "";
-  display: block;
-  border-color: #666;
-  width: 0;
-  border-bottom: 1px solid;
-  margin: 0 auto;
-  transition:all 0.3s linear 0s
-}
 .menu-list a:hover {
     color: #666666;
     border-bottom: 1px solid;
     transition: all 0.3 linear 0s;
+    border-width: 90%;
+    border-color: #666;
 }
 
 
