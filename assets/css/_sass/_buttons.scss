@@ -2,7 +2,8 @@
 
 .amazon-button a {
   width: auto;
-  height: 50px;
+  height: auto;
+  padding: 5px;
   letter-spacing: 0.5px;
   line-height: 50px;
   font-size: 15px;
@@ -18,9 +19,9 @@
   justify-content: center;
   text-decoration: none;
   float: left;
+}
 
-  a:hover {
-   background-color: #FFAB9D;
-   text-decoration: none;
- }
+.amazon-button a:hover {
+ background-color: #FFAB9D;
+ text-decoration: none;
 }
