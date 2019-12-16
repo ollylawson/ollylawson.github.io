@@ -1,6 +1,9 @@
 // Importing Sass/SCSS partials from `sass_dir` (defaults to `_sass`)
 @import "base",
         "default",
+        "content",
+        "poetry",
+        "short-stories",
         "home",
         "misc",
         "post",
