@@ -163,31 +163,7 @@ p {
   a:hover {
     color: #367CAE;
   }
-  .amazon-button a {
-    min-width: 165px;
-    width: auto;
-    height: 50px;
-    letter-spacing: 0.5px;
-    line-height: 50px;
-    padding: 0 35px 0 35px;
-    font-size: 15px;
-    background-color: rgba(#FFAB9D,0.5);
-    border-radius:10px;
-    color: white;
-    text-transform: uppercase;
-    font-family: 'Open Sans', sans-serif;
-    font-weight: bolder;
-    border: none;
-    cursor: pointer;
-    display: flex;
-    justify-content: center;
-    text-decoration: none;
-    float: left;
-  }
 
-  .amazon-button a:hover {
-    background-color: #FFAB9D;
-  }
 }
 
 .book-cover {
@@ -242,10 +218,6 @@ footer {
   background: #07123A;
 }
 
-.recent-article a {
-  transform: scale(1.1);
-  transition: transform 6s cubic-bezier(0.25, 0.45, 0.45, 0.95);
-}
 
 
 /* background colours */
