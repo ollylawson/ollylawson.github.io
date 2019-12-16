@@ -101,6 +101,7 @@ p {
   display: flex;
   align-items: center;
   justify-content: center;
+  text-decoration: none;
 }
 
 .homepage-section .intro .welcome {
@@ -191,6 +192,10 @@ p {
       margin: 10px;
     }
   }
+
+book-synopsis {
+  font-size: 25px;
+}
 
 footer {
     color: #666666;
