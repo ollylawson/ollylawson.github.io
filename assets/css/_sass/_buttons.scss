@@ -36,8 +36,9 @@ button {
      vertical-align: middle;
      text-decoration: none;
      background: transparent;
-     padding: 0;
+     padding: 5px;
      font-size: inherit;
+     justify-content: center;
    }
    button.btn {
      width: 12rem;
