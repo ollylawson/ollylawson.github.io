@@ -27,8 +27,7 @@
 
 
 /*subscribe btn*/
-.subscribe {
-  button {
+button {
      position: relative;
      display: inline-block;
      cursor: pointer;
@@ -106,5 +105,4 @@
    }
    button:hover .button-text {
      color: #fff;
-   }
 }
