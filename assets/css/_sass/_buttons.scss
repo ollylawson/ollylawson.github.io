@@ -1,4 +1,4 @@
-
+/*
 .amazon-button a {
   width: 200px;
   height: 50px;
@@ -23,7 +23,7 @@
  background-color: #FFAB9D;
  text-decoration: none;
  color: black;
- }
+} */
 
 
 /*subscribe btn*/
@@ -112,3 +112,13 @@
    align-items: center;
    justify-content: center;
  }
+
+
+
+ .amazon-button button {
+   background-color: rgba(#FFAB9D,0.5);
+ }
+
+ .amazon-button button:hover {
+  background-color: #FFAB9D;
+ } 
