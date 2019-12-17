@@ -10,13 +10,11 @@ title: Home
     <div class="welcome">
         <h1>Olly Lawson</h1>
         <p><i>Purveyor of fine stories; journalist, author, playwright, poet.</i>
-        </p>
           <br>
-          <h3>
           {% for item in site.data.settings.social %}
           <a href="{{ item.link }}" class="social-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
-          {% endfor %}
-        </h3>
+          {% endfor %
+        </p>
         <div class="subscribe">
           <button class="btn">
             <span class="circle">
