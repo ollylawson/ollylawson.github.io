@@ -133,6 +133,17 @@ p {
   	flex-wrap: wrap;
   	justify-content: space-around;
   }
+
+  .img-container img {
+    	width: 330px;
+    	height: 220px;
+    	padding: 10px;
+    	transition: all 1s;
+    }
+
+  .img-container img:hover {
+    transform: scale(1.1);
+  }
 }
 
 .book-cover {
