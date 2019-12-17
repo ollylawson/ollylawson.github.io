@@ -39,9 +39,8 @@
  background-color: #FFAB9D;
  text-decoration: none;
  color: black;
- &:hover
-   &:before
+  &:hover &:before {
      width: 100%;
      background: rgba($primary,1);
-
+   }
  }
