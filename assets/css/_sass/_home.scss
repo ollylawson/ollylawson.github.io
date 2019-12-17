@@ -133,34 +133,6 @@ p {
   	flex-wrap: wrap;
   	justify-content: space-around;
   }
-
-  .img-container img {
-    	width: 330px;
-    	height: 220px;
-    	padding: 10px;
-    	transition: all 1s;
-    }
-
-  .img-container img:hover {
-    transform: scale(1.1);
-  }
-
-
-  h1 {
-    text-align: left;
-  }
-
-  h2 {
-    text-align: center;
-  }
-
-  a {
-    color: #176AA4;
-  }
-  a:hover {
-    color: #367CAE;
-  }
-
 }
 
 .book-cover {
@@ -174,7 +146,7 @@ p {
     font-size: 50px;
   }
 
-  h1 {
+  .book-purchase {
     float: left;
     text-align: left;
     width: 600px;
