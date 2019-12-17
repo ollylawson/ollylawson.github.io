@@ -1,7 +1,20 @@
 /*button*/
 
+.amazon-button::before{
+  content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    border-radius: 28px;
+    background: rgba(#FFAB9D,.5);
+    width: 56px;
+    height: 56px;
+    transition: all .3s ease;
+
+}
 .amazon-button a {
-  width: 200px;
+/*  width: 200px;
   height: 50px;
   padding: 5px;
   letter-spacing: 0.5px;
@@ -16,12 +29,19 @@
   border: none;
   cursor: pointer;
   display: flex;
-  justify-content: center;
+  justify-content: center; */
   text-decoration: none;
+  position: relative;
+  transition: all .2s ease;
 }
 
 .amazon-button a:hover {
  background-color: #FFAB9D;
  text-decoration: none;
  color: black;
-}
+ &:hover
+   &:before
+     width: 100%;
+     background: rgba($primary,1);
+
+ }
