@@ -1,6 +1,10 @@
 .short-story-post::after{
   content:'';
+  height: 7px;
+  width: 70px;
+  border-radius: 5px;
   margin-bottom: 30px;
+  display: block;
 }
 
 .short-story-post h2 {
