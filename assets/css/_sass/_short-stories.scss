@@ -1,10 +1,10 @@
-.short-story-post::after{
-  content:'';
-  height: 7px;
-  width: 70px;
-  border-radius: 5px;
-  margin-bottom: 20px;
+.short-story-post{
+  border-bottom: 1px solid;
+  border-bottom-color: rgba(7, 18, 58, 0.8);
+  padding: 10px;
+  padding-bottom: 20px;
   display: block;
+  overflow: auto;
 }
 
 .short-story-post h2 {
