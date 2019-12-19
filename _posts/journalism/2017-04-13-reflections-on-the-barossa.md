@@ -3,7 +3,7 @@ layout: post
 title: "Reflections on the Barossa"
 author: "Olly Lawson"
 categories: article
-tags: [recent]
+tags: [recent, australia]
 image: barossa.jpg
 ---
 

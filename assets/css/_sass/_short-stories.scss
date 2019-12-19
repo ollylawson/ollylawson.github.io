@@ -1,4 +1,8 @@
 .short-story-post::after{
   content:'';
-  margin: 30px;
+  margin-bottom: 30px;
+}
+
+.short-story-post h2 {
+  text-decoration: underline;
 }
