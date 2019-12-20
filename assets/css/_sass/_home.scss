@@ -118,10 +118,6 @@ p {
     padding-bottom: 10px;
     text-align: center;
   }
-  .subscribe {
-    text-align: center;
-    padding: 30px;
-  }
 }
 
 @media (max-width: 600px) {
@@ -130,6 +126,13 @@ p {
       flex-direction: column;
     }
   }
+
+/* subscribe */
+
+.subscribe {
+  text-align: center;
+  padding: 30px;
+}
 
 /* news section */
 .homepage-section .recent-news .book-purchase {
