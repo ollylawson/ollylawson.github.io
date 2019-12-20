@@ -131,7 +131,6 @@ p {
   }
 
 @media screen and (min-width: 800px){
-  .welcome::after {
     .scroll a {
       padding-top: 60px;
     }
@@ -160,7 +159,6 @@ p {
       transform: rotate(-45deg);
       box-sizing: border-box;
     }
-  }
 }
 /* news section */
 .homepage-section .recent-news .book-purchase {
