@@ -124,10 +124,6 @@ p {
   }
 }
 
-.intro {
-  background-color: #DDD;
-}
-
 @media (max-width: 600px) {
   .homepage-section .intro {
       -webkit-flex-direction: column;
@@ -138,13 +134,18 @@ p {
 
 /* subscribe */
 
-.subscribe {
+.subscribe-section {
   text-align: center;
-  padding: 50px;
-  background-color: #DDD;
+  padding: 70px;
 }
 
 /* news section */
+
+.recent-news {
+  background-color: #ddd;
+}
+
+
 .homepage-section .recent-news .book-purchase {
   .img-container {
   	display: flex;
