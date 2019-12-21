@@ -124,6 +124,10 @@ p {
   }
 }
 
+.intro {
+  background-color: #DDD;
+}
+
 @media (max-width: 600px) {
   .homepage-section .intro {
       -webkit-flex-direction: column;
@@ -131,11 +135,13 @@ p {
     }
   }
 
+
 /* subscribe */
 
 .subscribe {
   text-align: center;
   padding: 50px;
+  background-color: #DDD;
 }
 
 /* news section */
@@ -214,6 +220,9 @@ footer {
   background: #07123A;
 }
 
+.recent-article {
+  background-color: #DDD;
+}
 
 
 /* background colours */
