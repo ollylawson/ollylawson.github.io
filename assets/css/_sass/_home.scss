@@ -3,7 +3,7 @@
   border-bottom-color: rgba(7, 18, 58, 0.8);
   padding: 20px;
   display: block;
-  overflow: hidden;
+  overflow: auto;
 
   h1 {
     padding: 5px;
@@ -78,7 +78,6 @@ p {
 .homepage-section .intro {
   display: -webkit-flex;
   display: flex;
-  background-color: #ddd;
 }
 
 .homepage-section .intro .avatar {
@@ -141,9 +140,6 @@ p {
 
 /* news section */
 
-.recent-news {
-  background-color: #ddd;
-}
 
 
 .homepage-section .recent-news .book-purchase {
