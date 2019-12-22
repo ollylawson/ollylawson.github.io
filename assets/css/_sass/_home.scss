@@ -1,6 +1,7 @@
 .homepage-section {
   border-bottom: 1px solid;
   border-bottom-color: rgba(7, 18, 58, 0.8);
+  padding: 20px;
   display: block;
   overflow: auto;
 
@@ -77,6 +78,7 @@ p {
 .homepage-section .intro {
   display: -webkit-flex;
   display: flex;
+  background-color: #ddd;
 }
 
 .homepage-section .intro .avatar {
@@ -141,7 +143,6 @@ p {
 
 .recent-news {
   background-color: #ddd;
-  padding: 20px;
 }
 
 
@@ -218,10 +219,7 @@ footer {
   margin-bottom: 30px;
   display: block;
   background: #07123A;
-}
-
-.recent-article {
-  background-color: #DDD;
+  padding-left: 20px;
 }
 
 
