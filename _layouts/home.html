@@ -28,9 +28,11 @@ title: Home
         <span class="button-text">Subscribe</span>
       </button>
     </div>
-    {% for item in site.data.settings.social %}
-    <a href="{{ item.link }}" class="social-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
-    {% endfor %}
+    <div class="social-icons">
+      {% for item in site.data.settings.social %}
+      <a href="{{ item.link }}" class="social-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+      {% endfor %}
+    </div>
   </div>
 </div>
 
