@@ -79,6 +79,11 @@
   font-family: $base-font-family;
 }
 
+.related-title :hover{
+  cursor: pointer;
+color: #666666;
+}
+
 /* .related-thumbnail {
   position: relative;
   width: 600px;
