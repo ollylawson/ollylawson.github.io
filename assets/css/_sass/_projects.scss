@@ -1,4 +1,4 @@
-.project-content {
+.projects-content {
   display: flex;
   display: -webkit-flex;
   flex-wrap: wrap;
@@ -8,5 +8,9 @@
   .projects-image {
     float: left;
     padding: 10px;
+  }
+
+  p {
+    float: right;
   }
 }
