@@ -2,7 +2,7 @@
 layout: post
 title: "Cobalt Cove"
 author: "Olly Lawson"
-categories: shortstories
+categories: shortstory
 tags: []
 ---
 

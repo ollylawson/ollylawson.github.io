@@ -2,7 +2,7 @@
 layout: post
 title: "Here Come The Saviours"
 author: "Olly Lawson"
-categories: shortstories
+categories: shortstory
 tags: []
 ---
 

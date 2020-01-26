@@ -2,7 +2,7 @@
 layout: post
 title: "The Strangers Angel"
 author: "Olly Lawson"
-categories: shortstories
+categories: shortstory
 tags: []
 ---
 
