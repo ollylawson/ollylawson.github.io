@@ -3,18 +3,16 @@ layout: page
 title: Projects
 ---
 
-
-<div class="past-projects">
-  <h1>Past Projects</h1>
-  {% for post in site.categories.pastprojects %}
+{% for post in site.categories.pastprojects %}
+  <div class="past-projects">
+    <h1>Past Projects</h1>
       <div class="project-posts">
         <h2><span>{{ post.title }} | {{post.date}}</span></h2>
         <img src="{{ site.github.url }}/assets/img/{{ page.image }}"/>
         {{ content }}
       </div>
-  {% endfor %}
-</div>
-
+  </div>
+{% endfor %}
 
 <!-- <div class="upcoming-projects">
   <h1>Upcoming Projects<h1>
