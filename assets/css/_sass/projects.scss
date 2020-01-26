@@ -1,0 +1,12 @@
+.project-content {
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 10px;
+
+  .projects-image {
+    float: left;
+    padding: 10px;
+  }
+}
