@@ -8,11 +8,18 @@ title: Projects
   <h2>Coming Soon...
   </h2>
 </div>
-<!-- <div class="past-projects">
+<div class="past-projects">
   <h1>Past Projects</h1>
+  {% for post in site.categories.pastprojects %}
+      <div class="project-posts">
+        <h2><span>{{ post.title }} | {{post.date}}</span></h2>
+        <img src="{{ site.github.url }}/assets/img/{{ page.image }}"/>
+        {{ content }}
+      </div>
+  {% endfor %}
 </div>
 
 
-<div class="upcoming-projects">
+<!-- <div class="upcoming-projects">
   <h1>Upcoming Projects<h1>
 </div> -->
