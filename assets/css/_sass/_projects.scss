@@ -1,3 +1,12 @@
+.past-projects h1 {
+  text-align: center;
+
+  h2 {
+    float: left;
+  }
+}
+
+
 .project-posts {
   display: flex;
   display: -webkit-flex;
@@ -8,6 +17,8 @@
   .projects-image {
     float: left;
     padding: 10px;
+    width: 330px;
+    height: 220px;
   }
 
   p {
