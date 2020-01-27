@@ -2,24 +2,23 @@
   text-align: center;
 
   h2 {
-    float: left;
+    text-align: left;
   }
-}
+  .project-posts {
+    display: flex;
+    display: -webkit-flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 10px;
 
+    .projects-image {
+      float: left;
+      padding: 10px;
+      border: 1px black solid;
+    }
 
-.project-posts {
-  display: flex;
-  display: -webkit-flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  margin: 10px;
-
-  .projects-image {
-    float: left;
-    padding: 10px;
-  }
-
-  p {
-    float: right;
+    p {
+      text-align: right;
+    }
   }
 }
