@@ -1,24 +1,27 @@
 .past-projects h1 {
   text-align: center;
+}
+
+.project-posts {
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 10px;
+
+  .projects-image {
+    float: left;
+    padding: 10px;
+    border: 1px black solid;
+  }
 
   h2 {
     text-align: left;
+    float: left;
   }
-  .project-posts {
-    display: flex;
-    display: -webkit-flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    margin: 10px;
 
-    .projects-image {
-      float: left;
-      padding: 10px;
-      border: 1px black solid;
-    }
-
-    p {
-      text-align: right;
-    }
+  p {
+    text-align: right;
+    float: right;
   }
 }
