@@ -2,24 +2,26 @@
   text-align: center;
 }
 
-.project-posts {
+.past-projects .project-posts {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
   margin: 10px;
+
+  h2 {
+    float: left;
+  }
+
+  p {
+    float: right;
+    padding: 10px;
+    color: blue;
+  }
 }
 
 .projects-image {
     float: left;
   padding: 10px;
 
-  h2 {
-    float: left;
-  }
-  
-  p {
-    float: right;
-    padding: 10px;
-    color: blue;
-  }
+
 }
