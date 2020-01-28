@@ -19,13 +19,15 @@
     float: left;
   }
 
+.projects-content {
+
+  .projects-image {
+      float: left;
+    padding: 10px;
+  }
+
   p {
     float: right;
     padding: 10px;
   }
-}
-
-.projects-image {
-    float: left;
-  padding: 10px;
 }
