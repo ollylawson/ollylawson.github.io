@@ -4,7 +4,6 @@
 
 .project-posts {
   display: flex;
-  display: -webkit-flex;
   flex-wrap: wrap;
   justify-content: space-around;
   margin: 10px;
@@ -15,12 +14,11 @@
   }
 
   h2 {
-    text-align: left;
     float: left;
   }
 
   p {
-    text-align: left;
     float: right;
+    padding: 10px;
   }
 }
