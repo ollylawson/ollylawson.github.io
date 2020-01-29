@@ -16,13 +16,11 @@
   display: flex;
   display: -webkit-flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: space-around;
   padding: 10px;
   padding-bottom: 20px;
   overflow: auto;
-}
-
-.projects-content {
+  
   .projects-image {
       float: left;
     padding: 10px;
