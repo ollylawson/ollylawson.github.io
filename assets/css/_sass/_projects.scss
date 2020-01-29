@@ -2,7 +2,7 @@
   text-align: center;
 }
 
-.projects-post {
+.project-posts {
   margin: 10px;
   border-bottom: 1px solid;
   border-bottom-color: rgba(7, 18, 58, 0.8);
@@ -20,13 +20,12 @@
   padding: 10px;
   padding-bottom: 20px;
   overflow: auto;
-  
-  .projects-image {
-      float: left;
-    padding: 10px;
-  }
   p {
     float: right;
     padding: 10px;
+  }
+  img {
+    float: left;
+  padding: 10px;
   }
 }
