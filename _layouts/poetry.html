@@ -9,14 +9,7 @@ layout: default
 
   <span class="post-date">
     {{ site.data.settings.post_date_prefix }}
-    {% assign d = page.date | date: "%-d"  %}
-    {{ page.date | date: "%B" }}
-    {% case d %}
-      {% when '1' or '21' or '31' %}{{ d }}st
-      {% when '2' or '22' %}{{ d }}nd
-      {% when '3' or '23' %}{{ d }}rd
-      {% else %}{{ d }}th{% endcase %},
-    {{ page.date | date: "%Y" }}
+    {{ page.date | date_to_string }}.
   </span>
 
   <article>
@@ -28,7 +21,6 @@ layout: default
     <div class="sharing-icons">
       <a href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.github.url }}{{ page.url }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
       <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.github.url }}{{ page.url }}&amp;title={{ page.title }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-      <a href="https://plus.google.com/share?url={{ site.github.url }}{{ page.url }}" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
     </div>
   </div>
 

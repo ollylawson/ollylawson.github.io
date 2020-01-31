@@ -133,5 +133,3 @@ down the streets all the way out of town,
 for good and for ever;
 
 the only freedom in sight.
-
-<footer> as performed at...<footer>
