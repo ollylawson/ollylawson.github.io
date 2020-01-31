@@ -2,6 +2,7 @@
 layout: poetry
 title: "Farewell to London (apology coming soon)"
 author: "Olly Lawson"
+date: 08-04-2018
 categories: Poetry
 tags: []
 ---

@@ -2,6 +2,7 @@
 layout: poetry
 title: "What of the Lot of the Gypsy Child"
 author: "Olly Lawson"
+date: 26-09-2018
 categories: Poetry
 tags: []
 ---
