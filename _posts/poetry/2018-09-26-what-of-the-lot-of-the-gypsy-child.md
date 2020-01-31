@@ -4,7 +4,6 @@ title: "What of the Lot of the Gypsy Child"
 author: "Olly Lawson"
 categories: Poetry
 tags: []
-image:
 ---
 
 What of the lot of the Gypsy Child,

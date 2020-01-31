@@ -4,7 +4,6 @@ title: "Farewell to London (apology coming soon)"
 author: "Olly Lawson"
 categories: Poetry
 tags: []
-image:
 ---
 
 The homeless men didn’t steal from me,

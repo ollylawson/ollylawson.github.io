@@ -4,7 +4,6 @@ title: "Punchline"
 author: "Olly Lawson"
 categories: Poetry
 tags: []
-image:
 ---
 
 

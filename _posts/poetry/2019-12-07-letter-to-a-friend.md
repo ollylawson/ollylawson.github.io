@@ -4,7 +4,6 @@ title: "Letter to a Friend"
 author: "Olly Lawson"
 categories: Poetry
 tags: []
-image:
 ---
 
 We played the game

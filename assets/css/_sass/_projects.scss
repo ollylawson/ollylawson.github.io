@@ -19,7 +19,7 @@
   display: -webkit-flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: space-between;
   padding: 10px;
   padding-bottom: 20px;
   overflow: auto;
@@ -27,6 +27,7 @@
 .projects-content p {
   float: right;
   padding: 10px;
+  width: 600px;
 }
 .projects-content img {
   float: left;
