@@ -2,7 +2,6 @@
 layout: poetry
 title: "Letter to a Friend"
 author: "Olly Lawson"
-date: 12-07-2019
 categories: Poetry
 tags: []
 ---
