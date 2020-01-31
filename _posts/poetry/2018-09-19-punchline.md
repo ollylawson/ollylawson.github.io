@@ -2,7 +2,6 @@
 layout: poetry
 title: "Punchline"
 author: "Olly Lawson"
-date: 19-09-2018
 categories: Poetry
 tags: []
 ---
