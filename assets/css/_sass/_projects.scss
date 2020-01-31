@@ -7,29 +7,3 @@
   border-bottom: 1px solid;
   border-bottom-color: rgba(7, 18, 58, 0.8);
 }
-
-.project-title {
-  float: left;
-  padding: 10px;
-  display: inline-block;
-}
-
-.projects-content {
-  display: flex;
-  display: -webkit-flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  padding: 10px;
-  padding-bottom: 20px;
-  overflow: auto;
-}
-.projects-content p {
-  float: right;
-  padding: 10px;
-  width: 600px;
-}
-.projects-content img {
-  float: left;
-  padding: 10px;
-}

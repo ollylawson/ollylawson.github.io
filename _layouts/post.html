@@ -16,7 +16,7 @@ layout: default
       {% when '3' or '23' %}{{ day }}rd
       {% else %}{{ day }}th
       {% endcase %}
-    {{ page.date | date: "of %B, %Y" }}
+    {{ page.date | date: "%B %Y" }}
     <br>
     {% capture read_time %}
     {{ page.content | number_of_words | divided_by: 180 }}
