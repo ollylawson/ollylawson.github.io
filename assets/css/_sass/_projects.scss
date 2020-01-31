@@ -4,6 +4,18 @@
 
 .projects-post {
   margin: 10px;
-  border-bottom: 1px solid;
+  border-bottom: 2px solid;
   border-bottom-color: rgba(7, 18, 58, 0.8);
+}
+
+.projects-content {
+  padding: 10px;
+
+  img {
+    float: left;
+  }
+  p {
+    float: right;
+    width: 400px;
+  }
 }
