@@ -11,12 +11,14 @@
 .projects-content {
   padding: 10px;
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 
   img {
     float: left;
   }
   p {
     float: right;
-    width: 400px;
+    width: 500px;
   }
 }
