@@ -1,6 +1,6 @@
 ---
 layout: poetry
-title: 2020-01-31-Hello-world.md
+title: Hello world
 author: Olly Lawson
 categories:
   - Poetry
