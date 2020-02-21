@@ -8,6 +8,7 @@ image: safiandolly.jp2
 ---
 
 Safi Usmani wants to restore his country’s reputation among travellers. I meet him for the first time on the border between Tajikistan and Afghanistan:
+<br>
 
 <i>Hi dear friend thanks for your email I hope you are fine doing well.
 My name safi Usmani right now i am 42 year old i was born in ishkashim district in 1977 unroll ishkashim high school In 1984 graduate  1996 high school ishkashim in1997 employ teacher in high school ishkashim we teach literature subjects in there til to  may 2001 on that tim our country was internal war between political parties live is very difficult no facilities no good salary to solve our family problems we break work with education departments try find now job fortunately was good chance for me found job  in world food programme our office replace ishkashim to faizabad center of badkhshan province in 2006
