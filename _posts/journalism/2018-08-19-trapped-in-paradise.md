@@ -3,7 +3,7 @@ layout: post
 title: "Trapped in Paradise"
 author: "Olly Lawson"
 categories: article
-tags: [recent, travel]
+tags: [travel]
 image: trapped-in-paradise.jpg
 ---
 
