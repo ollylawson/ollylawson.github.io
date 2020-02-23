@@ -10,6 +10,8 @@ image: ollyandsafi.jpg
 <i>Safi Usmani (second from left) wants to restore his country’s reputation among travellers. I met him for the first time on the border between Tajikistan and Afghanistan</i><br>
 
 
+
+
 I meet Safi Usmani in unusual circumstances. There are packs of heavily armed men prowling around us; there is a caged bridge that does not invite crossing; there is a tobacco-coloured river surging with snowmelt, crenellated fences, coils of barbed wire and padlocks the size of mess tins. There&#39;s the Hindu Kush hulking above us. There is No Man&#39;s Land, featureless and silent. There&#39;re the competing flags of Tajikistan and Afghanistan flapping in the breeze. And then there&#39;s him, Safi—all baby blue robes, jet-black hair and fiercely tanned skin.
 
  &quot;Hello my friend!&quot; he says, waving as if we&#39;re childhood friends catching up after _too long_. It&#39;s hard to believe he hasn&#39;t been superimposed on the scene. He has a reedy, singsong voice—not unlike Kermit the frog&#39;s—but it betrays the seriousness of his ambitions: he, along with a few like-minded individuals, is determined to resuscitate Afghanistan&#39;s tourism.
