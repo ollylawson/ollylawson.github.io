@@ -7,7 +7,7 @@ tags: [recent, travel]
 image: ollyandsafi.jpg
 ---
 
-<i>Safi Usmani (second from left) wants to restore his country’s reputation among travellers. I met him for the first time on the border between Tajikistan and Afghanistan</i><br>
+<i>Safi Usmani (second from left) wants to restore his country’s reputation among travellers</i><br>
 
 
 
