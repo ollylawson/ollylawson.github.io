@@ -7,7 +7,9 @@ tags: [recent, travel]
 image: ollyandsafi.jpg
 ---
 
-<i>Safi Usmani wants to restore his country’s reputation among travellers. I meet him for the first time on the border between Tajikistan and Afghanistan</i><br>
+<i>Safi Usmani (second from left) wants to restore his country’s reputation among travellers</i><br>
+
+
 
 
 I meet Safi Usmani in unusual circumstances. There are packs of heavily armed men prowling around us; there is a caged bridge that does not invite crossing; there is a tobacco-coloured river surging with snowmelt, crenellated fences, coils of barbed wire and padlocks the size of mess tins. There&#39;s the Hindu Kush hulking above us. There is No Man&#39;s Land, featureless and silent. There&#39;re the competing flags of Tajikistan and Afghanistan flapping in the breeze. And then there&#39;s him, Safi—all baby blue robes, jet-black hair and fiercely tanned skin.
