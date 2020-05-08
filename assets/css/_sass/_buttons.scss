@@ -124,13 +124,12 @@
      height: auto;
    }
    button.btn .circle {
-     transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
      position: relative;
      display: block;
      margin: 0;
-     width: 3rem;
+     width: 12rem;
      height: 3rem;
-     background: #07123A;
+     background: #F4A847;
      border-radius: 1.625rem;
    }
    button.btn .circle .icon {
@@ -183,9 +182,6 @@
      -webkit-transform: translate(1rem, 0);
              transform: translate(1rem, 0);
    }
-   button:hover .button-text {
-     color: #fff;
-}
 
 .purchase form {
      position: relative;
@@ -209,7 +205,7 @@
      margin: 0;
      width: 12rem;
      height: 3rem;
-     background: #07123A;
+     background: #049CDE;
      border-radius: 1.625rem;
    }
    form.btn .circle .icon {
