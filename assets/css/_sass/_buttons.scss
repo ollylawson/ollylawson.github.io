@@ -38,7 +38,7 @@
      background: transparent;
      padding: 0;
      font-size: inherit;
-
+}
      button.btn {
        width: 12rem;
        height: auto;
@@ -106,7 +106,6 @@
      button:hover .button-text {
        color: #fff;
 }
-}
 
 .purchase button {
      position: relative;
@@ -119,6 +118,7 @@
      background: transparent;
      padding: 0;
      font-size: inherit;
+   }
    button.btn {
      width: 12rem;
      height: auto;
@@ -168,7 +168,7 @@
      bottom: 0;
      padding: 0.75rem 0;
      margin: 0 0 0 1.85rem;
-     color: #fff;
+     color: #07123A;
      font-weight: 700;
      line-height: 1.6;
      text-align: center;
@@ -182,7 +182,6 @@
      -webkit-transform: translate(1rem, 0);
              transform: translate(1rem, 0);
    }
- }
 
 .purchase form {
      position: relative;
@@ -245,7 +244,7 @@
      bottom: 0;
      padding: 0.75rem 0;
      margin: 0 0 0 1.85rem;
-     color: #fff;
+     color: #07123A;
      font-weight: 700;
      line-height: 1.6;
      text-align: center;
