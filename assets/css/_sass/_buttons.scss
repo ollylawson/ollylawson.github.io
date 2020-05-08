@@ -107,7 +107,8 @@
        color: #fff;
 }
 
-.purchase button {
+.purchase {
+  button {
      position: relative;
      display: inline-block;
      cursor: pointer;
@@ -182,6 +183,7 @@
      -webkit-transform: translate(1rem, 0);
              transform: translate(1rem, 0);
    }
+}
 
 .purchase form {
      position: relative;
