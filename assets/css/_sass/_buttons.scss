@@ -139,7 +139,7 @@
      top: 0;
      bottom: 0;
      margin: auto;
-     background: #fff;
+     background: #212121;
    }
    button.btn .circle .icon.arrow {
      transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
@@ -169,7 +169,7 @@
      bottom: 0;
      padding: 0.75rem 0;
      margin: 0 0 0 1.85rem;
-     color: #fff;
+     color: #212121;
      font-weight: 700;
      line-height: 1.6;
      text-align: center;
@@ -179,7 +179,7 @@
      width: 100%;
    }
    button:hover .circle .icon.arrow {
-     background: #fff;
+     background: #212121;
      -webkit-transform: translate(1rem, 0);
              transform: translate(1rem, 0);
    }
