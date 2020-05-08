@@ -241,7 +241,6 @@
              transform: rotate(45deg);
    }
    form.btn .button-text {
-     transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
      position: absolute;
      top: 0;
      left: 0;
@@ -254,9 +253,4 @@
      line-height: 1.6;
      text-align: center;
      text-transform: uppercase;
-   }
-   form:hover .circle .icon.arrow {
-     background: #fff;
-     -webkit-transform: translate(1rem, 0);
-             transform: translate(1rem, 0);
    }
