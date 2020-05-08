@@ -202,17 +202,14 @@
    form.btn {
      width: 12rem;
      height: auto;
-   }
-   form.btn .circle {
-     transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
      position: relative;
      display: block;
      margin: 0;
      width: 12rem;
-     height: 3rem;
      background: #07123A;
      border-radius: 1.625rem;
    }
+   
    form.btn .circle .icon {
      transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
      position: absolute;
@@ -263,3 +260,5 @@
      -webkit-transform: translate(1rem, 0);
              transform: translate(1rem, 0);
    }
+  }
+}
