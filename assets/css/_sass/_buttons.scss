@@ -268,7 +268,9 @@
        box-shadow: none;
        cursor: pointer;
        font-family: inherit;
-       width: auto;
+       font-size: inherit;
+       width: 100%;
+       height: auto;
        color: #fff;
        font-weight: 700;
        line-height: 1.6;
