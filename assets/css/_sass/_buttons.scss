@@ -261,7 +261,7 @@
              transform: translate(1rem, 0);
    }
 
-   input.paypal-button[type="submit"]{
+   input.paypal-button[type="text"]{
      transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
      position: absolute;
      top: 0;
