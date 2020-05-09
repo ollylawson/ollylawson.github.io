@@ -261,19 +261,16 @@
              transform: translate(1rem, 0);
    }
 
-   input.paypal-button[type="text"]{
-     transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
-     position: absolute;
-     top: 0;
-     left: 0;
-     right: 0;
-     bottom: 0;
-     padding: 0.75rem 0;
-     margin: 0 0 0 1.85rem;
-     color: #212121;
-     font-weight: 700;
-     line-height: 1.6;
-     text-align: center;
-     text-transform: uppercase;
-     text-decoration: none;
+   .paypal-button {
+       display: inline-block;
+       background-color: #049CDE;
+       color: #fff;
+       border-radius: 2%;
+       box-shadow: none;
+       cursor: pointer;
+       font-family: inherit;
+       font-size: 16px;
+       font-weight: bold;
+       padding: 16px 24px;
+       width: auto;
    }
