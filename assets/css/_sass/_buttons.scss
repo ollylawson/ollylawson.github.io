@@ -262,15 +262,16 @@
    }
 
    .paypal-button {
-       display: inline-block;
        background-color: #049CDE;
        color: #fff;
        border-radius: 2%;
        box-shadow: none;
        cursor: pointer;
        font-family: inherit;
-       font-size: 16px;
-       font-weight: bold;
-       padding: 16px 24px;
        width: auto;
+       color: #fff;
+       font-weight: 700;
+       line-height: 1.6;
+       text-align: center;
+       text-transform: uppercase
    }
