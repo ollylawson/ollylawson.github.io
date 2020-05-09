@@ -237,7 +237,7 @@
      -webkit-transform: rotate(45deg);
              transform: rotate(45deg);
    }
-   form.btn .button-text {
+   form.btn .paypal-button {
      transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
      position: absolute;
      top: 0;
@@ -259,21 +259,4 @@
      background: #fff;
      -webkit-transform: translate(1rem, 0);
              transform: translate(1rem, 0);
-   }
-
-   .paypal-button {
-       background-color: #049CDE;
-       color: #fff;
-       border-radius: 2%;
-       box-shadow: none;
-       cursor: pointer;
-       font-family: inherit;
-       font-size: inherit;
-       width: 100%;
-       height: auto;
-       color: #fff;
-       font-weight: 700;
-       line-height: 1.6;
-       text-align: center;
-       text-transform: uppercase
    }
