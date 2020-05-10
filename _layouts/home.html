@@ -17,26 +17,6 @@ title: Home
 </div>
 
 <div class="homepage-section">
-  <div class="subscribe-section">
-    <div class="subscribe">
-      <h2> COMING SOON </h2>
-      <br>
-      <button class="btn">
-        <span class="circle">
-          <span class="icon arrow"></span>
-        </span>
-        <span class="button-text">Subscribe</span>
-      </button>
-    </div>
-    <div class="social-icons">
-      {% for item in site.data.settings.social %}
-      <a href="{{ item.link }}" class="social-link" target="_blank" rel="noopener"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
-      {% endfor %}
-    </div>
-  </div>
-</div>
-
-<div class="homepage-section">
   <div class="recent-news">
     <div class="book-purchase">
       <div class="heading">
@@ -46,13 +26,22 @@ title: Home
           <div class="book-purchase">
             <h1>Notes from the Roof of the World: Afghanistan's Wakhan Corridor and Beyond</h1>
             <br>
-            <div class="subscribe">
-              <button onclick=" location.href='https://www.amazon.co.uk/Notes-Roof-World-Afghanistans-Corridor-ebook/dp/B07X8Q92YP/ref=sr_1_1?keywords=olly+lawson&qid=1570825342&sr=8-1' " class="btn">
+            <div class="purchase">
+              <h2>Buy a digital copy</h2>
+              <button onclick="location.href='https://www.amazon.co.uk/Notes-Roof-World-Afghanistans-Corridor-ebook/dp/B07X8Q92YP/ref=sr_1_1?keywords=olly+lawson&qid=1570825342&sr=8-1' " class="btn">
                 <span class="circle">
                   <span class="icon arrow"></span>
                 </span>
                 <span class="button-text">Amazon</span>
               </button>
+            </div>
+            <div class="purchase">
+              <h2>Or order a physical copy <i>(UK only)</i></h2>
+              <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                <input type="hidden" name="cmd" value="_s-xclick">
+                <input type="hidden" name="hosted_button_id" value="25EKVC3VUWMVJ">
+                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+              </form>
             </div>
           </div>
         <img src="assets/img/book-cover-page.jpg" alt="Afghanistan-book-cover">
@@ -73,6 +62,26 @@ title: Home
         <img src="assets/img/Kyrgyz-woman-milking-yak.jpg" class="book-image" alt="Kyrgyz-woman-milking-yak">
       </div>
       <footer> &copy; Stuart Howarth 2019 </footer>
+    </div>
+  </div>
+</div>
+
+<div class="homepage-section">
+  <div class="subscribe-section">
+    <div class="subscribe">
+      <h2> COMING SOON </h2>
+      <br>
+      <button class="btn">
+        <span class="circle">
+          <span class="icon arrow"></span>
+        </span>
+        <span class="button-text">Subscribe</span>
+      </button>
+    </div>
+    <div class="social-icons">
+      {% for item in site.data.settings.social %}
+      <a href="{{ item.link }}" class="social-link" target="_blank" rel="noopener"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+      {% endfor %}
     </div>
   </div>
 </div>

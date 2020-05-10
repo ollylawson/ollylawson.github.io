@@ -7,14 +7,11 @@ disqus:
 google-ID: 'UA-159293282-1'
 
 menu:
-- {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Projects', folder: 'pages', file: 'projects.html'}
-- {name: 'Content', folder: 'pages', file: 'content.html'}
-- {name: 'Journalism', folder: 'pages', file: 'journalism.html'}
-
-sublinks:
-- {name: 'Poetry', folder: 'pages', file: 'poetry.html'}
-- {name: 'Short Stories', folder: 'pages', file: 'shortstories.html'}
+- {name: 'About', folder: 'pages', file: 'about'}
+- {name: 'Projects', folder: 'pages', file: 'projects'}
+- {name: 'Journalism', folder: 'pages', file: 'journalism'}
+- {name: 'Poetry', folder: 'pages', file: 'poetry'}
+- {name: 'Short Stories', folder: 'pages', file: 'shortstories'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

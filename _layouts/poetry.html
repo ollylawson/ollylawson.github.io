@@ -48,7 +48,7 @@ layout: default
                     {% endif %}
                   </div>
                   <div class="related-title">
-                    {{ mypost.title }}
+                    <h3>{{ mypost.title }} - <i>{{ mypost.date | date: "%B %-d, %Y" }}</i> | {{ (mypost.categories) }}</h3>
                   </div>
                   <!--<small>{{ mypost.date | date: "%B %-d, %Y" }}</small>-->
                 </a>
