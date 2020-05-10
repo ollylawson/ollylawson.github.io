@@ -4,7 +4,7 @@ title: "The man bringing tourism back to Afghanistan"
 author: "Olly Lawson"
 categories: article
 tags: [recent, travel]
-image: ollyandsafi.jpg
+image: ollyandsafi.jp2
 ---
 
 <i>Safi Usmani (second from left) wants to restore his country’s reputation among travellers</i><br>
