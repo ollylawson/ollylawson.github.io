@@ -17,26 +17,6 @@ title: Home
 </div>
 
 <div class="homepage-section">
-  <div class="subscribe-section">
-    <div class="subscribe">
-      <h2> COMING SOON </h2>
-      <br>
-      <button class="btn">
-        <span class="circle">
-          <span class="icon arrow"></span>
-        </span>
-        <span class="button-text">Subscribe</span>
-      </button>
-    </div>
-    <div class="social-icons">
-      {% for item in site.data.settings.social %}
-      <a href="{{ item.link }}" class="social-link" target="_blank" rel="noopener"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
-      {% endfor %}
-    </div>
-  </div>
-</div>
-
-<div class="homepage-section">
   <div class="recent-news">
     <div class="book-purchase">
       <div class="heading">
@@ -56,7 +36,7 @@ title: Home
               </button>
             </div>
             <div class="purchase">
-              <h2>Or order a physical copy <i>(UK only)</i></h2> 
+              <h2>Or order a physical copy <i>(UK only)</i></h2>
               <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                 <input type="hidden" name="cmd" value="_s-xclick">
                 <input type="hidden" name="hosted_button_id" value="25EKVC3VUWMVJ">
@@ -82,6 +62,26 @@ title: Home
         <img src="assets/img/Kyrgyz-woman-milking-yak.jpg" class="book-image" alt="Kyrgyz-woman-milking-yak">
       </div>
       <footer> &copy; Stuart Howarth 2019 </footer>
+    </div>
+  </div>
+</div>
+
+<div class="homepage-section">
+  <div class="subscribe-section">
+    <div class="subscribe">
+      <h2> COMING SOON </h2>
+      <br>
+      <button class="btn">
+        <span class="circle">
+          <span class="icon arrow"></span>
+        </span>
+        <span class="button-text">Subscribe</span>
+      </button>
+    </div>
+    <div class="social-icons">
+      {% for item in site.data.settings.social %}
+      <a href="{{ item.link }}" class="social-link" target="_blank" rel="noopener"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+      {% endfor %}
     </div>
   </div>
 </div>
