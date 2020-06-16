@@ -3,7 +3,7 @@ layout: post
 title: "The man bringing tourism back to Afghanistan"
 author: "Olly Lawson"
 categories: article
-tags: [recent, travel]
+tags: [travel]
 image: ollyandsafi.jpg
 ---
 
