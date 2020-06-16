@@ -7,7 +7,7 @@ tags: [recent, travel]
 image: manforallseasons.jpg
 ---
 
-<i>Kumar Ratnayake pictured with his private car in 2017. Photo by Olly Lawson</i><br>
+<i>A typically fluorescent sunset over the Tangalle coastline. Photo: Olly Lawson</i><br>
 
 <b>Covid-19 is the latest in a long line of misfortunes to strike the bountiful island of Sri Lanka. Despite this, hope endures amongst locals that better times lie ahead.</b>
 
